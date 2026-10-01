@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-4",
-  "seq": 4,
+  "version": "ota-6",
+  "seq": 6,
   "builds": {
     "ios": [
       47
@@ -10,9 +10,9 @@
       39
     ]
   },
-  "bundle": "ota-4",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-4.zip",
-  "checksum": "216f0bd57dec9c26634b9b496a90235216c977b41d2a481aa76f13be366501071d27eb78fe80d17ab4133c5ed61ac296091539fd716f266d20c058d3d7f7997f8f9d2d1ab0a522df2f0a98a1ff8378cc317d269219d844fd75314da34b2d29cda05eccfb394200dec1358fe97152e581e94ef8d0828ca3ee0c6526f7fe275a22907757d88ee7495bbae1164f6e1b981e44200afd63f527435fd07e97fc41c5e75db972672f2a902064fae5326241319e7b57b233271f000c5d038d038a2de8b25c54dae0f0d201381a674518e662b95332fd995d61a343cbc15f63a662df9efb4ff20641c723dd80f141912f93f15e8913eef6f10640f99e194d242ef91e1e21",
-  "session_key": "+/ozXId3dplM0SZmdfuYsQ==:BBelezaV9jLB1McnjBYl8N5oPSO7qpgVHyfg9RayTPS7t7HZc2fcrnhNIsmdVFWVs8pD7FKYrXVj7t1R2Di6Z6XDNB1yPiyPPy/cWSE8qjPOjwkno+VmVfBnZoN0PMx3jBUJjDH1gu8mSon7PK9UUgK6T6NlLr2AxC63Q2PzFTAg+uzaQnrfZIHuG1/V9mcheTWVqGXG5wQKsDz/87s30j+915Mh4a/I+QcGMQzkOhNwCuLvSCdhCIFpDNPNNY4Zu5ngbKwkiGafI4Os7oUQD4D2SlXeYVRkan5YIT49YnXNFRhq33ApocJ7joxzYZxmaknYNcPC4nient1a279H7g==",
-  "notes": "download timeouts no longer count against an update"
+  "bundle": "ota-6",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-6.zip",
+  "checksum": "56bb0a23dbf4b6d1a6492adcbd30470df13a3f809af69f18e98692d71692f20f574a6351cc8097df7cdfe4e5d343636dca6118ce279172921ac62af5ace2ba596da24a68f392af28fc24dd7e95242bae98f67500735cf919c0d2fef98a21eba2fd037c6aa9794b139be096a6f5ba2d64903bc342e86db346be4f9826ec4ed9c23e9a6ff3e2628f693678ce644f39d31009864672212cb9a775595d98db0b8f45e57532cc72d1db95783ade623759cf3004a9cc481175fb1beeb91b23a2e1486d9f341342396c114cf37fc16f43b644bddfc43cc7d3d5576ab93f75c01dac3a0cd02477cc02fbcb5f1f0f1e2cc7bc2b4baec013de051b0b068f6d7e346860f246",
+  "session_key": "9ruqcNeLJd6FymhAj6geyQ==:dx1uMj7/jTBlPTXD/GQpW+tEaU+kmNbmbKB1CMm3Bw8XWKjVtNYc/qeAag/N+ox/c//Z9EFWZdfSdZLLdNQDmT+ErKnuSSVk3hIf3wP5vbzPV4jurWgOpoT/0DQ/vM5HCyS4wUMQtDXU8f4F7cpaVqilP/AWBy10XZ8WRsbC5NmB55UG/n1n2qqEd3W2hUEkryJ5LYDFFBVdMr+XRCrZQkTqxy5wA3WAqEEPb2ExB5JVgLIzaC9WXm3gtd2SI1ZFCgabDFlyPJ7T35XNuhQJ4JoaGFp4gAiT8YH85Ywghtri5WLI9AESqZeoB2AxJn/X+VYGXQYIrQVBHNoZ1YCsKg==",
+  "notes": "background storage aborts stop paging; JS stall breadcrumbs"
 }

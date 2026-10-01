@@ -1,6 +1,4 @@
 {
-  "v": 1,
-  "version": "ota-6",
   "seq": 6,
   "builds": {
     "ios": [
@@ -10,9 +8,9 @@
       39
     ]
   },
-  "bundle": "ota-6",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-6.zip",
   "checksum": "56bb0a23dbf4b6d1a6492adcbd30470df13a3f809af69f18e98692d71692f20f574a6351cc8097df7cdfe4e5d343636dca6118ce279172921ac62af5ace2ba596da24a68f392af28fc24dd7e95242bae98f67500735cf919c0d2fef98a21eba2fd037c6aa9794b139be096a6f5ba2d64903bc342e86db346be4f9826ec4ed9c23e9a6ff3e2628f693678ce644f39d31009864672212cb9a775595d98db0b8f45e57532cc72d1db95783ade623759cf3004a9cc481175fb1beeb91b23a2e1486d9f341342396c114cf37fc16f43b644bddfc43cc7d3d5576ab93f75c01dac3a0cd02477cc02fbcb5f1f0f1e2cc7bc2b4baec013de051b0b068f6d7e346860f246",
   "session_key": "9ruqcNeLJd6FymhAj6geyQ==:dx1uMj7/jTBlPTXD/GQpW+tEaU+kmNbmbKB1CMm3Bw8XWKjVtNYc/qeAag/N+ox/c//Z9EFWZdfSdZLLdNQDmT+ErKnuSSVk3hIf3wP5vbzPV4jurWgOpoT/0DQ/vM5HCyS4wUMQtDXU8f4F7cpaVqilP/AWBy10XZ8WRsbC5NmB55UG/n1n2qqEd3W2hUEkryJ5LYDFFBVdMr+XRCrZQkTqxy5wA3WAqEEPb2ExB5JVgLIzaC9WXm3gtd2SI1ZFCgabDFlyPJ7T35XNuhQJ4JoaGFp4gAiT8YH85Ywghtri5WLI9AESqZeoB2AxJn/X+VYGXQYIrQVBHNoZ1YCsKg==",
-  "notes": "background storage aborts stop paging; JS stall breadcrumbs"
+  "notes": "background storage aborts stop paging; JS stall breadcrumbs",
+  "source": "masareefy@be04909e",
+  "created": "2026-10-01T22:24:25.291Z"
 }
