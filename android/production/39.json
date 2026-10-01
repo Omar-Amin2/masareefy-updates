@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "version": "ota-3",
+  "seq": 3,
+  "builds": {
+    "ios": [
+      47
+    ],
+    "android": [
+      39
+    ]
+  },
+  "bundle": "ota-2",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-2.zip",
+  "checksum": "32780b3514e94c3a169e2e19e4104795117fa0d6e864ff406ecd3aa58d4baf32b0a94e6378cf9a102cb3ee1a2ed4eaaac13d1148abaed19bbef2e29a0521a1844022810d5996eb902ea1057f12b33f16038531c404f207e0942c269205112f970a99818751a8f763f2ad7efdfc3f5100a5dcc16c7b3d721478bfff3dc2e0cda628631b04af8b68e0b75cb2964f7f1f9a45f93eea3c1443ef15482aba1f24e8da9d32bc81a05d3b78ccf29058c63d1d8cca8525753fcceb19aefcf0469ebeae52ee7d42f07b85c71c11ce0068b5b41969e7aa587eb82dace2efacdbf74e5cabf969c709969dee1ddbe44a4a4c0e2aa628ecb64c396385ad4ed50d515aae6d7290",
+  "session_key": "zZJNrZDgxRL5XVFWKcgILA==:RvD8bGsTjgeUdR/4iNJaj4gUP4NHQjmE6GYxYSbvi56kPpXVn7hmZ8F/1aAsCq7ZiiyraMCNveMmLb3aS1TcuE9tSv4ESMoko1qai3WTlqzf3E5qlCR+P+cdl4U0pLsDTrHvTPVNB+4QFOdTzEPNkrrLJhwcDf+gZMgD5r5qja9Xvrq/5q6PC2Z+p3qgsRHDuYnrveJxn7pmguzXDG5Bh9FQ2a+QdJJr4iuIO8AyDg+OlcEqy4XasAddZrOI2oAVYcI8bEcXRa6Al8NrzNIXED8YvW/7RTQ/BObhBq0QKC+HbWfwxapbqqVSXGyqQgL+hhMANnPtcJeMVxT+nmzLtQ==",
+  "notes": "ota_bundle analytics property + IDB lost-connection retry"
+}
