@@ -1,6 +1,4 @@
 {
-  "v": 1,
-  "version": "ota-8",
   "seq": 8,
   "builds": {
     "ios": [
@@ -10,9 +8,9 @@
       39
     ]
   },
-  "bundle": "ota-8",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-8.zip",
   "checksum": "122fb4e0ebcfbb865b9c27be167e4b17c4c850bc7fac198cc74ff4d24899ece2c85eb0d651dca1e0ea02ba4acbc2634cd51b56cb519b54bf0c9325fc2619946c438592831a4ba71dd34c89a0b0b43db9dc5ac7ee77f8293292bb6a7a5aa055423a78484c32d74ba0d5d04d33b2c696dece68c34682f5d5f07d98f3794295e0cdca816eb6fbcd006f68527f55b6b7897455a874c305410085f2dc9f5c1acd6996d5eac73f0fd09316ae83db22d2d0ee3fbbf6d8303dbca1b7a2ea7a53a6dc365655e631656f24f1b4c6c7471516452ce745985bae43beba928fb806638aa461f3e03ffb1917daa53ca1b97a28a1521a2a22b81997a694dd4a4f7425507538b257",
   "session_key": "B+9GYA6h5U/3KErU4llLkA==:NSdKzFgUoZ6FjhCzT7h6CSPqJDvUkOnhnjPOVBFLDWG7bu8CuqAh3ZW85wurBNor2SZzQxdLS88jonNEKTu6+xWYuLdDJQLrJiRvYhzzmgjbpHj89xsoT/9VJE3Jyz/Qnq6M9sQhBi8gloe+m0vuCQIA5GludKNs46lVK1cY9P576uiYSTSTQi2AUrcOJn8g+bZkcsWwuEIK+j6Jin00BmYF+tLKvzIPPV3JfaXvODb520nUMLH04/2dpkm+mLNMMQk5M4siD2wEti1oChwdPE3A6g7jdXsZeiztC6cAG7Knsl1WliqAdNYCBX1pd99k1lB6DgvzInK4s6fR0vzmFQ==",
-  "notes": "first-run fixes: type-instead on the mic step, can't-talk toast, tutorial without the notifications ask, iOS invite after 1st entry"
+  "notes": "first-run fixes: type-instead on the mic step, can't-talk toast, tutorial without the notifications ask, iOS invite after 1st entry",
+  "source": "masareefy@b3d091ac",
+  "created": "2026-10-02T20:26:48.178Z"
 }
