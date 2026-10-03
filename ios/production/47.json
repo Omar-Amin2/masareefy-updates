@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-7",
-  "seq": 7,
+  "version": "ota-9",
+  "seq": 9,
   "builds": {
     "ios": [
       47
@@ -10,9 +10,9 @@
       39
     ]
   },
-  "bundle": "ota-6",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-6.zip",
-  "checksum": "56bb0a23dbf4b6d1a6492adcbd30470df13a3f809af69f18e98692d71692f20f574a6351cc8097df7cdfe4e5d343636dca6118ce279172921ac62af5ace2ba596da24a68f392af28fc24dd7e95242bae98f67500735cf919c0d2fef98a21eba2fd037c6aa9794b139be096a6f5ba2d64903bc342e86db346be4f9826ec4ed9c23e9a6ff3e2628f693678ce644f39d31009864672212cb9a775595d98db0b8f45e57532cc72d1db95783ade623759cf3004a9cc481175fb1beeb91b23a2e1486d9f341342396c114cf37fc16f43b644bddfc43cc7d3d5576ab93f75c01dac3a0cd02477cc02fbcb5f1f0f1e2cc7bc2b4baec013de051b0b068f6d7e346860f246",
-  "session_key": "9ruqcNeLJd6FymhAj6geyQ==:dx1uMj7/jTBlPTXD/GQpW+tEaU+kmNbmbKB1CMm3Bw8XWKjVtNYc/qeAag/N+ox/c//Z9EFWZdfSdZLLdNQDmT+ErKnuSSVk3hIf3wP5vbzPV4jurWgOpoT/0DQ/vM5HCyS4wUMQtDXU8f4F7cpaVqilP/AWBy10XZ8WRsbC5NmB55UG/n1n2qqEd3W2hUEkryJ5LYDFFBVdMr+XRCrZQkTqxy5wA3WAqEEPb2ExB5JVgLIzaC9WXm3gtd2SI1ZFCgabDFlyPJ7T35XNuhQJ4JoaGFp4gAiT8YH85Ywghtri5WLI9AESqZeoB2AxJn/X+VYGXQYIrQVBHNoZ1YCsKg==",
-  "notes": "background storage aborts stop paging; JS stall breadcrumbs"
+  "bundle": "ota-8",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-8.zip",
+  "checksum": "122fb4e0ebcfbb865b9c27be167e4b17c4c850bc7fac198cc74ff4d24899ece2c85eb0d651dca1e0ea02ba4acbc2634cd51b56cb519b54bf0c9325fc2619946c438592831a4ba71dd34c89a0b0b43db9dc5ac7ee77f8293292bb6a7a5aa055423a78484c32d74ba0d5d04d33b2c696dece68c34682f5d5f07d98f3794295e0cdca816eb6fbcd006f68527f55b6b7897455a874c305410085f2dc9f5c1acd6996d5eac73f0fd09316ae83db22d2d0ee3fbbf6d8303dbca1b7a2ea7a53a6dc365655e631656f24f1b4c6c7471516452ce745985bae43beba928fb806638aa461f3e03ffb1917daa53ca1b97a28a1521a2a22b81997a694dd4a4f7425507538b257",
+  "session_key": "B+9GYA6h5U/3KErU4llLkA==:NSdKzFgUoZ6FjhCzT7h6CSPqJDvUkOnhnjPOVBFLDWG7bu8CuqAh3ZW85wurBNor2SZzQxdLS88jonNEKTu6+xWYuLdDJQLrJiRvYhzzmgjbpHj89xsoT/9VJE3Jyz/Qnq6M9sQhBi8gloe+m0vuCQIA5GludKNs46lVK1cY9P576uiYSTSTQi2AUrcOJn8g+bZkcsWwuEIK+j6Jin00BmYF+tLKvzIPPV3JfaXvODb520nUMLH04/2dpkm+mLNMMQk5M4siD2wEti1oChwdPE3A6g7jdXsZeiztC6cAG7Knsl1WliqAdNYCBX1pd99k1lB6DgvzInK4s6fR0vzmFQ==",
+  "notes": "first-run fixes: type-instead on the mic step, can't-talk toast, tutorial without the notifications ask, iOS invite after 1st entry"
 }
