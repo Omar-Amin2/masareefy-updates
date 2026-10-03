@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-8",
-  "seq": 8,
+  "version": "ota-10",
+  "seq": 10,
   "builds": {
     "ios": [
       47
@@ -10,9 +10,9 @@
       39
     ]
   },
-  "bundle": "ota-8",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-8.zip",
-  "checksum": "122fb4e0ebcfbb865b9c27be167e4b17c4c850bc7fac198cc74ff4d24899ece2c85eb0d651dca1e0ea02ba4acbc2634cd51b56cb519b54bf0c9325fc2619946c438592831a4ba71dd34c89a0b0b43db9dc5ac7ee77f8293292bb6a7a5aa055423a78484c32d74ba0d5d04d33b2c696dece68c34682f5d5f07d98f3794295e0cdca816eb6fbcd006f68527f55b6b7897455a874c305410085f2dc9f5c1acd6996d5eac73f0fd09316ae83db22d2d0ee3fbbf6d8303dbca1b7a2ea7a53a6dc365655e631656f24f1b4c6c7471516452ce745985bae43beba928fb806638aa461f3e03ffb1917daa53ca1b97a28a1521a2a22b81997a694dd4a4f7425507538b257",
-  "session_key": "B+9GYA6h5U/3KErU4llLkA==:NSdKzFgUoZ6FjhCzT7h6CSPqJDvUkOnhnjPOVBFLDWG7bu8CuqAh3ZW85wurBNor2SZzQxdLS88jonNEKTu6+xWYuLdDJQLrJiRvYhzzmgjbpHj89xsoT/9VJE3Jyz/Qnq6M9sQhBi8gloe+m0vuCQIA5GludKNs46lVK1cY9P576uiYSTSTQi2AUrcOJn8g+bZkcsWwuEIK+j6Jin00BmYF+tLKvzIPPV3JfaXvODb520nUMLH04/2dpkm+mLNMMQk5M4siD2wEti1oChwdPE3A6g7jdXsZeiztC6cAG7Knsl1WliqAdNYCBX1pd99k1lB6DgvzInK4s6fR0vzmFQ==",
-  "notes": "first-run fixes: type-instead on the mic step, can't-talk toast, tutorial without the notifications ask, iOS invite after 1st entry"
+  "bundle": "ota-10",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-10.zip",
+  "checksum": "a092dae31b013296a8935fae54dc34538f5ab315e6987cc678d41cf18da31e8b6dc857668d82de2d73fa3de263d27ad1f8e3b725053b720b4acdccefbd2cee0db7b59bf9a13bd269db3d7b7d75472af7e905d76390cc4a4f22ad9675c51ee576845e3cb3372793cdc61c4bb8c891af47b14ae7b2c17856c318634774cee66b5f54dbdd70299d94fe45f4f0dd1dca026a6e808bb553c26ce80a133abc25f7cfd12663886b34ff7995c693a9fc10f37346f7b289ac93ab3e33428dafd32efff56266b0cf0ee9d47b888620e1cb3a7199dc19ff975af640ebb36b090e4ee36edfefb1b5ad8d88f4e503ed669a05870a45e4d93f34cecf0ceed45f739f5e069b203a",
+  "session_key": "Xr1pVF4Oo35tVUNfkcPa6w==:A0Niz9+cjM0ivMto/bhRJ0D9IwVPiBJEsfitGvMPe2smwLaw0+vEXQpNQi/6SoLuefaiSI70H5X9T/7dmpyehbR9L1RDv/WOqK2xodiGLDgt3jh0E6YOY7J/TJIHwEgpASIKMkW/P97GeAIXStNm5tPwZ/unQ4TklDoEk+8nm0PC6Zc/6pEgfrcy+Ct2bAa2d4JWads6rR73zwu6MMA4knVTpU+mJFpf7Amt9PFXtSTab/Khs5kxotR16a4KLT0pbNRgNLRhnFA2VB3O1exy5pJEzNGj2N3LVg3D9BAux0hAhgpG7D6hTwUj4gDRmAlr0Gcjj4u0/S+uXDAibggA7w==",
+  "notes": "notification details: own row in notifications settings, works with app lock off"
 }
