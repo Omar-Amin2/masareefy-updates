@@ -1,0 +1,13 @@
+{
+  "seq": 11,
+  "builds": {
+    "ios": [
+      51
+    ]
+  },
+  "checksum": "658d21b30f2b6b4f1c0e495eb7197e559b9cb2ca619a409180d09019034e42d1b835e4b225020c56e320aa489c42ad04fc9a649a85db162477bd2eebb6c3ee6519f9277d854778b44216658bf3129844dbe090128417b89b8d26147b4bdaff6fefeca7113f75e9398d80d268f626c3ed55a26ce9ddf7c85bb959d1eb0e5f48981bbc62754a8291d245c6db49e111b547f5738c53f2d95969847e17d6ed03f39e7b3c1e9850b98d9c70ca2fbb9024a594e94acb71457658053b21da02ac414cb623c067e118c244e5cde215b27e9d3ba89bff652cc62e2f2cd3de8a5828604d8c2942c1619723963c339fdf27e228fda53ef850ab6cb71b348604a276aa98f4a1",
+  "session_key": "0pvk7BPQ7/DoIXh/lqrWaw==:O82yBw6tXxqUmEab4TNQJD4XgOpynrho0/N/QbThaBQjVq8YdShEX4gygJY6KHfeP/3FZ/GNiUtsXQV5+9R1CrFAjboRQQMMT+nlK656mDQn3TKonx9+pHCJfoOyU18v3WN9cAFKJJ5k4KsQKM+yP4I2Lheqjei1wkrZAQ3VPtwRaBw79OQ1OOmoCcYd2dZ2rw2+eCu+oG/8vkrIsxy4F5MeA9f/3OAn0qKI3TOJ10Xc/NehrW4QCjBCRl95wzDeG9BRSlwe6TduqGz2peLGQRptaX9tmRs/sZY+kVispwHilHqRwUtAL21fpFymfrTQhsQkXeXHwgmtVe8rq31MIg==",
+  "notes": "auto-log: tapping an «اتسجّل» alert opens the entry, not the review list",
+  "source": "masareefy@499ef574",
+  "created": "2026-10-05T12:54:59.878Z"
+}
