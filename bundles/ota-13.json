@@ -1,6 +1,4 @@
 {
-  "v": 1,
-  "version": "ota-13",
   "seq": 13,
   "builds": {
     "ios": [
@@ -10,9 +8,9 @@
       42
     ]
   },
-  "bundle": "ota-13",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-13.zip",
   "checksum": "3a5acfe6ee8a18ce69ffba46c531315b5cc1967c07ee616327f91453844dd19f12cf137c5d5c9eda6b87f9749f558fa0d83c32bb6a4a5fe6ddff3aa7abfa6f6e3bbef9d097f6b93bb8eb55b87263102d4e556e538867d40b979998922d25aed83f3d94176066478b74dc8b5842097a0b1bf4b75e2d80fb29ae8a4a8e9f8a0439ee043282a326987e549dd1905be7e7ac5c4b32d25ae804f7354487940d658a1f5cb4cf4a33dadb9d6f95294b45170561871c3dfbf56d8b5433cc1b7ca1ae4df8bec387d9dd2def8a605bfb216dcc76a71f6abed1b68eb61694c9e1efacdb2cd8d00cf6d7971adf5855bbd92ae085ec2d7310f6506d6709eab4a0c5758bdf20c9",
   "session_key": "XSwjXjwuN5zqjZr8lU7xrQ==:DITPpNsaJ+RGzH58L7MWDVTFY79lnE/W1vPnVwSwBTjhs55j9/GQokzLROPkxQLyKh1zZalIldGj1ojZgFZ+uylxvKhEyttcS/WefVg/faLeOaYKU+V2cQszogQuTyZ0v52KHYq5JE0c/hEgyqnQRpwSQ2Gp7eMAdwwIIyuGzwNJiceSWuhAFyhg48iqDg3CRTRtUhsRxHG1u4Ki1S1KVtQLWqg6FH5rEvuRVdcq0+xBPlFKDj/93L1ctnYO+rZY+v98UGuZL6Ovye1dQ44eWWXetTCX6Taa4MWsz7O1ISGKCGk/hjBzVnTEDidf8f4vwm11FRRq6Rjpc8Lfuq8Oyg==",
-  "notes": "Banque Misr «تم الآن خصم» card purchases logged (iPhone); flip to hide on by default + faster; plus ota-12"
+  "notes": "Banque Misr «تم الآن خصم» card purchases logged (iPhone); flip to hide on by default + faster; plus ota-12",
+  "source": "masareefy@a05e20f8",
+  "created": "2026-10-06T21:40:16.254Z"
 }
