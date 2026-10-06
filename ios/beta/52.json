@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "version": "ota-12",
+  "seq": 12,
+  "builds": {
+    "ios": [
+      52
+    ],
+    "android": [
+      42
+    ]
+  },
+  "bundle": "ota-12",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-12.zip",
+  "checksum": "3fb374acc1b54e470651ec06d42e891ef0cd9e30884d2d8c2c2db974cd054f9276fa82f2ea5adfea1901b88d8341fe342980f0d798aace525f6cbbf3cbdc9b8f7bc8cd1ee3937189d555bc3bbdfe3a01d53ecd9576ef003460c22144fe250d267c1bc5aa2d2f9086bbb69969bccda9bb2a724351e32de8dda5f26d242728b9fd78e9fc796390a764f238fd65687f71c2a667cb3288f9bef455809a7866db28abe4c3c454b722ef8f9b0d279156437bdc6d012eb4d163903df61e1433fae38e8834f2560cd0d6c1445bf06b823d5ad8e8f38f956e2190ba73ad10ac55b7121975c0ba3c593c7f168dafc4ff84b72ab6049a3932eb4e3eaf8b0c3d139c24e994a2",
+  "session_key": "zTs3nXevYYPNI5SdrdJh0A==:X06ZLumZl1Gk3chPWahfpDn2wNKILNE+MQKxSV8500zWQu4+hmcwmcpe02StY+t2YPG5ItsC2DjVt5sWvTQUCXUVUg1AKa5Y+YDGoE2HdxNWarSCBXRYpf3zLo1XjhvtAr08Yo3saOgySKQbDTjGVB/RpqLytmASXZhjaqos9GmpOuryzYSME+U1tYfpptPzj89SpwjzyN3GmITnoAZWZQ7fSTFQEOq2ZbiKWrSITi2+wCxL41SZD+EPH290qzAI+TX1LaMiQ8aUUAsxMOHIzxYxUNnVnZYLlh/9k9WpPoLwiandNOAM1ViaCunp8Uri0A01JGCgFoJCJNKRMPkamQ==",
+  "notes": "transfer names, first log opens imports, flip to hide, free-week offer, discovery stage 3"
+}
