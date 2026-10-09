@@ -1,6 +1,4 @@
 {
-  "v": 1,
-  "version": "ota-16",
   "seq": 16,
   "builds": {
     "ios": [
@@ -10,9 +8,9 @@
       43
     ]
   },
-  "bundle": "ota-16",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-16.zip",
   "checksum": "1242f3aa01417323bb81f9c75292608ec2f05e492b02f28dad52c0ddc0102ebf1a6f17b26143b6a309250a34e5a69af75e2a7f06a702d850ae7e93b5f537aea7fb10f57b1d10d75ed8295005d83beffa5245362684dedfdf1066714b34058fe605f5943cde536530498958eece67cd963923742f9648b2eb8205d09b69628dfeabf306ff64a6109f2de74560bfb68a3cb519dd646ee05acb18b2a98cd0ea8d1852229b1e9fc163a2d2eddd2cb24ed81ae040217739915836723e07e57e68366c25d89c0e8d145c000b3e4a8505f4b4dc328d2331e9211a7a3848ffb1ff15e1ac7dddd7c5cba464c776d6df262acbeb64d75bbd50039f25065d49d47d790580b9",
   "session_key": "6KVF5i485UN2WDcIYTWzpg==:bwySmAyazLulkEzE1/l07M3wllrBNuR35GNK2zv6o//9zYWTz53MZIl27knmzmWljznvf2QBMpEwTYNh4R8bDQwK8EYfSfidDbED+bxU5iWMefZsxia8GFXw2mBGCjdBfQlZ2Tli0NPF0Crtfvl25avP6i/MVN06tmiUOfSAqLuKYP1UzazV3Rg3JEwRugflxCrE5rO1qwt2g8w97vV1amZuPmPFPt/Yh4CaH8v1PXux+PRCeYl7NkK7PqK2N1Wr/epZR89ev0s5V9EuHRE0Gfd6fTzDsQt5JFJR3zpRJoe3diVc1IH5czm5E/5fRH8pxyC/ocwaWORPb6bMZz/+Ig==",
-  "notes": "ota-15 + book photo when creating a book"
+  "notes": "ota-15 + book photo when creating a book",
+  "source": "masareefy@bdefd6ce",
+  "created": "2026-10-09T16:47:37.650Z"
 }

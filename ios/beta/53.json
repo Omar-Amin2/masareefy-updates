@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-15",
-  "seq": 15,
+  "version": "ota-16",
+  "seq": 16,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-15",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-15.zip",
-  "checksum": "965710fb87633cfb04c967b1dcde5d60ead2eb25c8bb3960ffc3cee1377605e0a041457243c00f6b19c007bbdae1a965849865ee9aebca2bbeeda2af474bf64b842ab6bd35b695c9f446c312e2e1844aa7c9fcda4c8332f75c5d1c5f591f50c898d7eca00fc15807ae6742bde35b3aa093b238d7948afcd8a09de5cd41e0f536f16a1335ef63b25b9b75f70feb00da78ed29532f3414f6075904ae428c2dc38452a3d2d0b478127d080ce35b62da0ae25bba6b6baf0da5e6013cb4cc9ca47b38a1e371556f3562a1214dd818bf827895188159f16aefebbe98c6a0acdcc37b39120654f3d09b3af7f3e483c3785396e914c6b7cb66c2bf7a267685d289a590bc",
-  "session_key": "eWv++SD/M8GxhfHZ/JtuNQ==:REkGq7jLZb8QFCXHknaW4eKMFere7sBp1Q+aRVpnGDwKoxc19FPZU+TADFle10XA+7eR9bunaiAuxRNCDOcP52h5olKiBt2JyFmcsN99WjBm2cdZX/fBj+TmS5hVuQz97lnoqyOt5Mfh+OWcEIza0uJgWQI+TiUYcbowe61awbUVYkZ0urzYcZzn27Ejir4m7kCK3ananR53spMwjWDbAn+8s2zV60Ol/dC6JLNtcpUnJguPa6A6780M3gFY/za38dlt1/sdUksdNuefkQIKhA40k1vRRPK5eLYctQw61PPoUFMPRUk2J70g/78t3k3yGZ6UrA7d06Qh0dyYbfdYqg==",
-  "notes": "auto-log fixes: alert/app category agree, declined taps cancel, held-back alerts, two-book buttons; edit sheet late category; book photos; auto-log on for new installs"
+  "bundle": "ota-16",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-16.zip",
+  "checksum": "1242f3aa01417323bb81f9c75292608ec2f05e492b02f28dad52c0ddc0102ebf1a6f17b26143b6a309250a34e5a69af75e2a7f06a702d850ae7e93b5f537aea7fb10f57b1d10d75ed8295005d83beffa5245362684dedfdf1066714b34058fe605f5943cde536530498958eece67cd963923742f9648b2eb8205d09b69628dfeabf306ff64a6109f2de74560bfb68a3cb519dd646ee05acb18b2a98cd0ea8d1852229b1e9fc163a2d2eddd2cb24ed81ae040217739915836723e07e57e68366c25d89c0e8d145c000b3e4a8505f4b4dc328d2331e9211a7a3848ffb1ff15e1ac7dddd7c5cba464c776d6df262acbeb64d75bbd50039f25065d49d47d790580b9",
+  "session_key": "6KVF5i485UN2WDcIYTWzpg==:bwySmAyazLulkEzE1/l07M3wllrBNuR35GNK2zv6o//9zYWTz53MZIl27knmzmWljznvf2QBMpEwTYNh4R8bDQwK8EYfSfidDbED+bxU5iWMefZsxia8GFXw2mBGCjdBfQlZ2Tli0NPF0Crtfvl25avP6i/MVN06tmiUOfSAqLuKYP1UzazV3Rg3JEwRugflxCrE5rO1qwt2g8w97vV1amZuPmPFPt/Yh4CaH8v1PXux+PRCeYl7NkK7PqK2N1Wr/epZR89ev0s5V9EuHRE0Gfd6fTzDsQt5JFJR3zpRJoe3diVc1IH5czm5E/5fRH8pxyC/ocwaWORPb6bMZz/+Ig==",
+  "notes": "ota-15 + book photo when creating a book"
 }
