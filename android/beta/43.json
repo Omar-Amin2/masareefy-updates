@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "version": "ota-15",
+  "seq": 15,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "bundle": "ota-15",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-15.zip",
+  "checksum": "965710fb87633cfb04c967b1dcde5d60ead2eb25c8bb3960ffc3cee1377605e0a041457243c00f6b19c007bbdae1a965849865ee9aebca2bbeeda2af474bf64b842ab6bd35b695c9f446c312e2e1844aa7c9fcda4c8332f75c5d1c5f591f50c898d7eca00fc15807ae6742bde35b3aa093b238d7948afcd8a09de5cd41e0f536f16a1335ef63b25b9b75f70feb00da78ed29532f3414f6075904ae428c2dc38452a3d2d0b478127d080ce35b62da0ae25bba6b6baf0da5e6013cb4cc9ca47b38a1e371556f3562a1214dd818bf827895188159f16aefebbe98c6a0acdcc37b39120654f3d09b3af7f3e483c3785396e914c6b7cb66c2bf7a267685d289a590bc",
+  "session_key": "eWv++SD/M8GxhfHZ/JtuNQ==:REkGq7jLZb8QFCXHknaW4eKMFere7sBp1Q+aRVpnGDwKoxc19FPZU+TADFle10XA+7eR9bunaiAuxRNCDOcP52h5olKiBt2JyFmcsN99WjBm2cdZX/fBj+TmS5hVuQz97lnoqyOt5Mfh+OWcEIza0uJgWQI+TiUYcbowe61awbUVYkZ0urzYcZzn27Ejir4m7kCK3ananR53spMwjWDbAn+8s2zV60Ol/dC6JLNtcpUnJguPa6A6780M3gFY/za38dlt1/sdUksdNuefkQIKhA40k1vRRPK5eLYctQw61PPoUFMPRUk2J70g/78t3k3yGZ6UrA7d06Qh0dyYbfdYqg==",
+  "notes": "auto-log fixes: alert/app category agree, declined taps cancel, held-back alerts, two-book buttons; edit sheet late category; book photos; auto-log on for new installs"
+}
