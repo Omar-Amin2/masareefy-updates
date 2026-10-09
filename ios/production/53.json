@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "version": "ota-18",
+  "seq": 18,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "bundle": "ota-17",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-17.zip",
+  "checksum": "3a28f3038ae7d601d60572ccdb30c822240af4ae335ab3f6044c7f20cca3007cd3d38fd12dde3b3f797f17c5c2f719ba37a5b987e6f95371884f3e818a87d05fab58e3b36aa9a663ad9435681d4dda9b5d31d36c1b958efce4d1f3dd3e6a3ac6b4814eeb5fb1cd4780d579afd5cda08acab1b0c0e869b846c5480e90dc6e5521a505cc30b1acd0f9d7f8656d790b4c70f203dcfaa1cc3eb182b52a3478d8d30023dde6b8256b38e00b95403e7a44796aa220d2317acc32f1229e0d2710bc796d8f67c54fd149cd4f234fa53190bfb847d8ceaf3ad468893ac88d87e19533f3bf89afa1f8f8c47d95731ae15c4792cf3173dd85e9620c66d39b4e801bb03f33c6",
+  "session_key": "wu6tlAd+Ego7mtYNmsYkrg==:bI9XBtQU4WOqFhGoDgOKAkzQPF4eLlo8w491UM/LEsGfaR+acbgVZLXMT84HvQ6iNmVTeL5TGLXfmxxwi9pCCYEKI9GhZ8TXmqLaYx2jlGmhawGVJPdS8qaFtzPAcVirJVqXugtjUYrN2yW1RyIxXq1Z0nehXVuZeMHolbfVK4Q+IZRSnzLR2Neudw4/Hjqr47p4tTtbJBlu06eZXjhYMh81l08j5ddR+2mHiKVylQZ+IwGY2TaVJ6Zh1getfbFDiKLerOWAD2M1aRnVvWYf4uRYw6nxTTi0EkuLtBLZ+yA9Bjr0byHOnbuK6TEs7efEKlkKTeRtdg/9M6R8SEfLrA==",
+  "notes": "ota-16 + Saudi bank texts captured (SR/SAR, Al Rajhi/Alinma/SAB/BSF/STC/D360 shapes); SMS setup currency step: open warning + required tick"
+}
