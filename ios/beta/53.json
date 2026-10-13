@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-17",
-  "seq": 17,
+  "version": "ota-20",
+  "seq": 20,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-17",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-17.zip",
-  "checksum": "3a28f3038ae7d601d60572ccdb30c822240af4ae335ab3f6044c7f20cca3007cd3d38fd12dde3b3f797f17c5c2f719ba37a5b987e6f95371884f3e818a87d05fab58e3b36aa9a663ad9435681d4dda9b5d31d36c1b958efce4d1f3dd3e6a3ac6b4814eeb5fb1cd4780d579afd5cda08acab1b0c0e869b846c5480e90dc6e5521a505cc30b1acd0f9d7f8656d790b4c70f203dcfaa1cc3eb182b52a3478d8d30023dde6b8256b38e00b95403e7a44796aa220d2317acc32f1229e0d2710bc796d8f67c54fd149cd4f234fa53190bfb847d8ceaf3ad468893ac88d87e19533f3bf89afa1f8f8c47d95731ae15c4792cf3173dd85e9620c66d39b4e801bb03f33c6",
-  "session_key": "wu6tlAd+Ego7mtYNmsYkrg==:bI9XBtQU4WOqFhGoDgOKAkzQPF4eLlo8w491UM/LEsGfaR+acbgVZLXMT84HvQ6iNmVTeL5TGLXfmxxwi9pCCYEKI9GhZ8TXmqLaYx2jlGmhawGVJPdS8qaFtzPAcVirJVqXugtjUYrN2yW1RyIxXq1Z0nehXVuZeMHolbfVK4Q+IZRSnzLR2Neudw4/Hjqr47p4tTtbJBlu06eZXjhYMh81l08j5ddR+2mHiKVylQZ+IwGY2TaVJ6Zh1getfbFDiKLerOWAD2M1aRnVvWYf4uRYw6nxTTi0EkuLtBLZ+yA9Bjr0byHOnbuK6TEs7efEKlkKTeRtdg/9M6R8SEfLrA==",
-  "notes": "ota-16 + Saudi bank texts captured (SR/SAR, Al Rajhi/Alinma/SAB/BSF/STC/D360 shapes); SMS setup currency step: open warning + required tick"
+  "bundle": "ota-20",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-20.zip",
+  "checksum": "226a57b691e6c527d86465254964f85842a4c78689febb7e148378e345f1a4397fe0156ff783629ec0e4b9e9eff7c0baf893e793bd87555ff6d5e9f49126c5bce11b998eec2b0ae803b740633fee2eea8367a71ce1d0f0ee9cd46478130b875187f38d45cce80ad32806e79048f87b2fc9e4e4fa47555b5e89c32a6383845e254483d3e405d6f5abc5eb07958388b79f3d273ebda6c72155cda61486eaca6e6296d9b3814799a61c6cc6c7fe01a26dfb736f344ac6758313bd5dc42ad83460ad9f527438a4e7591e59f8fa2d64bfc18c7b237642ac750c6d129d8ae63e74b0f725e70c77af3c1fd3da5e8f7224a8d872e7fe5d0549a1c2da4bb63727e290773e",
+  "session_key": "5C/6Rg8TBf0f5uLrf37Ang==:KeT4XIYZJtqqe3KWAx8MO6CLfVeEr1xE5Hf7jASD3yx+ZwNo1yyndE1CN8Hb6Y1k7v4m6xRHz4FXkzmaJ3C5kC0wfmy+epG0Ms90LItxtwFIeCHeABvrgSPnYLsvyXorUwsnkaHBhIjh5ZQ9/DF9nxTQOKpmK3k+zQBXH9Uoixz8ahaxLThoBx5OdJqyoZhyH2S04s2JVsPVh7kD89yIeVP8ULEJaWmdwtWG4hhfNMkNCQIXJ5Gb+snqi6ib9bCUXSmWGtCHyIy0AopQAEQ6dXl0nSjl9n0WV53QL9ZmN2Yo9AxmMUIwC38+jkN/YTFDs2dM9zowTmGiXiQ6M+GXIw==",
+  "notes": "ota-17 + tapping an «اتسجّل» alert opens the entry in «التفاصيل» directly, no inbox detour"
 }
