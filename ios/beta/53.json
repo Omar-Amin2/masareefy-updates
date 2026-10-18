@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-22",
-  "seq": 22,
+  "version": "ota-23",
+  "seq": 23,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-22",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-22.zip",
-  "checksum": "54878016a9d471da87100e8972e16fd72ed00314350a0b4e9fd8a4f37a468cd4f2f519c0d28ed5921c787cbd11f155c58132dbcff57e927d4e5f648cd677509faafd89029c42adc1bcce3930bb299b0e0d3beb27e48e852b4a818beb00f4e27563329be787342ced2cbf9759fa56e36bc8b0a21790f5a00067cab0ee78cf441906db7a69b2278a52cf6c02b7696133870a932def2480d8bd07f35dce905d15ddde6c47b76680266974a45f01779b30bd5a9e3265f0cd78807310c25a702ab1f26c769cbbe762ecf6dce7cf10b44934440ccb6b376bc73c7ccc465ba98986c5120831eafe58558aacb4e4ffd7a22a61c65ff8f801aa02412aed32619183e56743",
-  "session_key": "B1mKLnBQnYl4Nl0qyl13Ng==:CCwfEawgDDmXmFZGWbH2y/tqSFtj5GbbGHOOAJcjn8JW1qKBNekjPfqjRAzX9BjTkKfNNeRLuQ1kNA4ISKSfLSr3AS0S0SEattS1WzCvLZKMYyFaxsiByDMQv278B5j3tMq/cnSJZ9RurKvsrsvAU+hNIr6Q//PvMQ1Ah/fxh9aIlHYqNZvUZIkOCuwuVa9ISZ/AKRYNm3DMPTEBXLIt0ixMdC1Y7K5EbRUBKv8aW5gbu4O4R428WajsWp4ibVDupFxXZ65CAgnjlFTyai7RK6HfjzgeED5VVmrT5b/mMeZDQb01Uj0kp4lCnVSJnVTYmjP9JdZg1slMQ68wzbLnaw==",
-  "notes": "ota-21 + mic tone timed by the audio clock (glitch fix) + mic_cue diagnostics"
+  "bundle": "ota-23",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-23.zip",
+  "checksum": "0fe377746f75abdde4341db84295312ad0c6abb9d0e3b264e6861e29e865efa6714ef4750687ab295121a9ab103ddb5a9d39c6cb26ae31912dc1233a6c7a1b4712892c66d8a3adb19cb6735f2448370d4f2533112d151a103eeceab36baf56cfc2993b4fe350ef445ef66cb69e1c3ca0a13641ea4c908331c8561f8f418804e74a16f521d683ea1cd077873125f6f9036013c4fb96e23d7cb87ec8379e2574051b1a11b3fe67a88b70dca287a5db936f9746065a6709b42e301be04e01692c9ecd9808ed1fa4954546b9b77b97826fdbf0d8b71b64ed7fd9c1c7834f201b360211d332a6d9a8c5ab55c440795264248c4e8ec6623ebc97d1144a42e46cbedda4",
+  "session_key": "i4wB1dvwUjTBwoN374skAg==:nrjUkh5VvoikjM/nnFTOMP45gt3wXa8tAzqfwvBU5cSJA/eCi8UtDtKKXR2oNMYdfSY6ZZYL1z6YedJKAh7Y1nf1nXwcmsJqj21mvs9C0gGTjh+Fi7EdhyyKeOOZca7YcxGr8TwjGdbgeCbjsGPKnJ0/j62cllwg7pOOMJi8SmHUBk2kuQK6StKsuNQtFZz6dkv3Bv+SZHiJryShmkLUrZrTiJ9LrDtXKNfb2nytpvRANF3PupY84qIJOdxYMKZkzEfm1i6gCKhFgb6eIjkNvrm4vRfgoD6+6kg578d0a3MPOCNjXTjYX93mOMELznsSfHuRC08vJYccb/WXRwumLA==",
+  "notes": "ota-22 + start tone ends as the screen flips to recording"
 }
