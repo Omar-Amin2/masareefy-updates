@@ -1,0 +1,16 @@
+{
+  "seq": 24,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "57c4d96b5b890788c5112aa0d5f1142f0b484a8023f42a2c5c0b7380c394b8a8366951e953ffcbdf7a7073bfe6dbb92909b3550f7a176bd70ef1874ef257f59692fa62bf0fc777dea3b9eb0ace73e89d466db21de5875b2b21d54935da8a469a82e0aa044ceaf78833ab7f98fb073deb654fc2d1cdfcb5cf046881b0f395304092e0f6fdc65e4809e2eea4739c9e22fb7c8b0f8e6609d1ff53bbf7e1875754194d5f28b14f7d191913165d6362f54ef0ab765a94344d3e9856a133de7edbdb80c58cd76632d022bbee0f63ca67fc8ca90e4c4d87affde41066bed574adef66b7bb77c52b7007aba865f3aa7e06daa417c3fe04d5627443613c87db17e86c86aa",
+  "session_key": "cv4434KtLo1x7ZBnQqx+/A==:nVEVjwKQAMKBDl3xq8YIjkzvCsL8tCeMwcDKmBVEWGA1cXJ548tzqdeGnyH7wf7v6o3Es2iohX/UcHVfPlNTbsj44HjgxzwZaAZod7sH0vd28TtIuUP0w4L+DBOxGV3/3NIyg0iFwi0+o0HE7bv91JpF/FqcXp0uudGtbUPIthZ33JdQJXu4kYBaVii/7Rwc7+WfI4VLX8y8a14nTkWTX2mk5OhlRny9gGg2W44gqzNPijIRC4b+KQ9DxWUgRuA0q9+ti0soquV1y3UxVBxE2YBZuX1LGubqhpmMqlOMzGXoJVHnA/h2/U7tScR/libWV0eSZHEW1K5ghzBKx24+IA==",
+  "notes": "ota-23 + Siri-style start: screen flips and tone plays together, recording right after the tone",
+  "source": "masareefy@b6e4750c",
+  "created": "2026-10-18T00:34:58.128Z"
+}

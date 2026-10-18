@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-23",
-  "seq": 23,
+  "version": "ota-24",
+  "seq": 24,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-23",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-23.zip",
-  "checksum": "0fe377746f75abdde4341db84295312ad0c6abb9d0e3b264e6861e29e865efa6714ef4750687ab295121a9ab103ddb5a9d39c6cb26ae31912dc1233a6c7a1b4712892c66d8a3adb19cb6735f2448370d4f2533112d151a103eeceab36baf56cfc2993b4fe350ef445ef66cb69e1c3ca0a13641ea4c908331c8561f8f418804e74a16f521d683ea1cd077873125f6f9036013c4fb96e23d7cb87ec8379e2574051b1a11b3fe67a88b70dca287a5db936f9746065a6709b42e301be04e01692c9ecd9808ed1fa4954546b9b77b97826fdbf0d8b71b64ed7fd9c1c7834f201b360211d332a6d9a8c5ab55c440795264248c4e8ec6623ebc97d1144a42e46cbedda4",
-  "session_key": "i4wB1dvwUjTBwoN374skAg==:nrjUkh5VvoikjM/nnFTOMP45gt3wXa8tAzqfwvBU5cSJA/eCi8UtDtKKXR2oNMYdfSY6ZZYL1z6YedJKAh7Y1nf1nXwcmsJqj21mvs9C0gGTjh+Fi7EdhyyKeOOZca7YcxGr8TwjGdbgeCbjsGPKnJ0/j62cllwg7pOOMJi8SmHUBk2kuQK6StKsuNQtFZz6dkv3Bv+SZHiJryShmkLUrZrTiJ9LrDtXKNfb2nytpvRANF3PupY84qIJOdxYMKZkzEfm1i6gCKhFgb6eIjkNvrm4vRfgoD6+6kg578d0a3MPOCNjXTjYX93mOMELznsSfHuRC08vJYccb/WXRwumLA==",
-  "notes": "ota-22 + start tone ends as the screen flips to recording"
+  "bundle": "ota-24",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-24.zip",
+  "checksum": "57c4d96b5b890788c5112aa0d5f1142f0b484a8023f42a2c5c0b7380c394b8a8366951e953ffcbdf7a7073bfe6dbb92909b3550f7a176bd70ef1874ef257f59692fa62bf0fc777dea3b9eb0ace73e89d466db21de5875b2b21d54935da8a469a82e0aa044ceaf78833ab7f98fb073deb654fc2d1cdfcb5cf046881b0f395304092e0f6fdc65e4809e2eea4739c9e22fb7c8b0f8e6609d1ff53bbf7e1875754194d5f28b14f7d191913165d6362f54ef0ab765a94344d3e9856a133de7edbdb80c58cd76632d022bbee0f63ca67fc8ca90e4c4d87affde41066bed574adef66b7bb77c52b7007aba865f3aa7e06daa417c3fe04d5627443613c87db17e86c86aa",
+  "session_key": "cv4434KtLo1x7ZBnQqx+/A==:nVEVjwKQAMKBDl3xq8YIjkzvCsL8tCeMwcDKmBVEWGA1cXJ548tzqdeGnyH7wf7v6o3Es2iohX/UcHVfPlNTbsj44HjgxzwZaAZod7sH0vd28TtIuUP0w4L+DBOxGV3/3NIyg0iFwi0+o0HE7bv91JpF/FqcXp0uudGtbUPIthZ33JdQJXu4kYBaVii/7Rwc7+WfI4VLX8y8a14nTkWTX2mk5OhlRny9gGg2W44gqzNPijIRC4b+KQ9DxWUgRuA0q9+ti0soquV1y3UxVBxE2YBZuX1LGubqhpmMqlOMzGXoJVHnA/h2/U7tScR/libWV0eSZHEW1K5ghzBKx24+IA==",
+  "notes": "ota-23 + Siri-style start: screen flips and tone plays together, recording right after the tone"
 }
