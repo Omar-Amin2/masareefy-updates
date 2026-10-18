@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-26",
-  "seq": 26,
+  "version": "ota-27",
+  "seq": 27,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-26",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-26.zip",
-  "checksum": "183e7e2e644690b52b855f6f2b3528f769bc18dea5c70c3924d56dcbb4e20d394ba43fd6bea06016acb7fe332112686ba6fd098dab4032ee15dfcbf238357e463bd07b6e84447e4d2e8e7e98e8ad6ed313884da7913b83c89cbf1cc36eabeeb22581b6a430d99f6048b4da345f3e9907d6761aeded76bb89188eef7938f49771a17235eeb575a7174ae7acc0466e7fcad39569f68442c442c081d8b81e456a26edfb9a05b8d7cf60855350976c38f13894d4448c34c2c835735a980db4412d8f0300602eb24443c1b7c51a17b18bad2f2a3ca1dccc168acfb6ce8b4aca724b138ab27471486dbc45a59d37a33fa3834574dc1c988dec0ee5687c270e3fce6b83",
-  "session_key": "bPqKWlGVZ4cdTeDcv1iFng==:SGMgdQFIZl85vqIkvuw/KjKGNjNHQ46W1uhEtwoXWF3KJHeOT98P6Fj5wmz9uCwSQjCJUf6kUPrSnzHxFSHDx6g3Boyp87Xtj0alBTCvz3uN2dZjwaDVt6Ejr4qvZTD7/EsOjwytca6/PeVbmuUK49Z7KjwPTcLL6g9iiENB/Hce54PkwDta4sCBmYkh3GH7pdvQcEUEUSFzUAXtYDNfwYY5FGAPHJLDYKYBcrLqBOANyIfQkCx9Pez64thZsxwumghNp+BC/OsA/QfmpSf+u4Fukdqh3GuZgCwMJHfKy4uOGH0cAEg5EpowvR+WjW+fx+PbUtZ3e9S7Q+HUsWB9KQ==",
-  "notes": "ota-25 + voice categorization: keyword gaps, one-tap new category on the confirm card, sweets category"
+  "bundle": "ota-27",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-27.zip",
+  "checksum": "1e34f7f07b6ac88e80d7ca2e8c014e862fae7253e916b0d5432a120d8d8257caa4cb88cbc8f836520860dfb044d8ea4e2f721dfe0b5c5a84b5b3aaf84cd5355abf91046766dd7ee5ca2202cf83de5a758d40b83bbc2830a9e992f1c62fb1d670c10a38b094435a9eccecb52caa15a6435fb30427d9eb98ae53be2f335551c8d7e560dd2a29765ecfe76f33cb2b4b2a0267a2538419032d361c1b11a128ebfdbc3a0fa23ff6ec2c813a9d4f5927b7127d084323fb767f8294185966632248b6bf5dc1bb85bdd9b7f1d8a426f43de16124664dac5166c29e72b140d304ce5503e334a061f677c506dfa301ef098fcc6d477d2c2d3c56df6c67f267a91ac9ac9ea2",
+  "session_key": "PwuKsgg/xf5+8t+b7Ta4zw==:GNyK5Qjirmxk8SOtzyfJkaCuVAccTFqb1YrUNu0lkJw71cK8mYrUQzlwtRd8Th5xl6TAIQXWXNtdlh5u7T5pH63aDgkUId1hkEY+6IuNaJHEvvaWQ3xvRYcNU5zOOclJuwjC4yy1JEN8X9WZsrCv/crCWRNvI8uNirBMjk5T13i+yli/h5rLIIfSu3ntJsTAyvVBs1ppl9ynNOsa35F/Pfmz1znLBeGnNs8+2i04Uk+2k9ZEgYilKLuErswvhV2SYSykAcYp2VsbgyirBLp62etWXtCULcIQgu8h8mSl4+QEJ/0Fi0XyQr2Q7rrvlGFLxXiWQ+YQ64hlTvVGDpEnuQ==",
+  "notes": "ota-26 + own categories: halawa to your snacks, no twin offers, tips, pick-your-category, lock-screen names custom categories"
 }

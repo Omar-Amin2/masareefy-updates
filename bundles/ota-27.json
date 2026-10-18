@@ -1,0 +1,16 @@
+{
+  "seq": 27,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "1e34f7f07b6ac88e80d7ca2e8c014e862fae7253e916b0d5432a120d8d8257caa4cb88cbc8f836520860dfb044d8ea4e2f721dfe0b5c5a84b5b3aaf84cd5355abf91046766dd7ee5ca2202cf83de5a758d40b83bbc2830a9e992f1c62fb1d670c10a38b094435a9eccecb52caa15a6435fb30427d9eb98ae53be2f335551c8d7e560dd2a29765ecfe76f33cb2b4b2a0267a2538419032d361c1b11a128ebfdbc3a0fa23ff6ec2c813a9d4f5927b7127d084323fb767f8294185966632248b6bf5dc1bb85bdd9b7f1d8a426f43de16124664dac5166c29e72b140d304ce5503e334a061f677c506dfa301ef098fcc6d477d2c2d3c56df6c67f267a91ac9ac9ea2",
+  "session_key": "PwuKsgg/xf5+8t+b7Ta4zw==:GNyK5Qjirmxk8SOtzyfJkaCuVAccTFqb1YrUNu0lkJw71cK8mYrUQzlwtRd8Th5xl6TAIQXWXNtdlh5u7T5pH63aDgkUId1hkEY+6IuNaJHEvvaWQ3xvRYcNU5zOOclJuwjC4yy1JEN8X9WZsrCv/crCWRNvI8uNirBMjk5T13i+yli/h5rLIIfSu3ntJsTAyvVBs1ppl9ynNOsa35F/Pfmz1znLBeGnNs8+2i04Uk+2k9ZEgYilKLuErswvhV2SYSykAcYp2VsbgyirBLp62etWXtCULcIQgu8h8mSl4+QEJ/0Fi0XyQr2Q7rrvlGFLxXiWQ+YQ64hlTvVGDpEnuQ==",
+  "notes": "ota-26 + own categories: halawa to your snacks, no twin offers, tips, pick-your-category, lock-screen names custom categories",
+  "source": "masareefy@2b48819c",
+  "created": "2026-10-18T11:52:58.736Z"
+}
