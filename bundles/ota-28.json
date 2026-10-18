@@ -1,0 +1,16 @@
+{
+  "seq": 28,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "8f2498e017262c2bfec9aa6e8b66496d30481e95521109f793a8301b397c69963959b2d8a484edd5f6fc0c1f576d38c434bd460160aefc03d1773998e7a649825976fad421cc830e68369f735bf9fb9f3d3e9c71877a24cd02a2e24ff93c808407278ddbbb44886209495a47316c37e3ac886aa2861bc5e4fc5c16362cad5d838cce8550627774bde81dbad9a56b7b7cfae646781a8f202aca9b9c0b0c6b3269ee7f6aa79f0945467500a9db3e5be087790ae8c247098d20430593c5a72a0641eabe3d9696c93906ed681cde8b3ab91c0290e2427d37d02f8f03fa2d46a17f38c35070ef6981a761932bd65189412422cba4e9e5d6ca51b211e3ffb807244f91",
+  "session_key": "d+zpOrtA+/aSrVEOxh3yZg==:BzonGXuEMKFrOcLq9ccx8hN9+oehjTt9xk9LYuqeAdhobNU2p3pCoam6LOtAlqH74C4xkp0eC6Og+4j1yynpLC42z+z+ZHSzxEBbFitQpSVVR3tjOe7dIsKaCiUshZc6DSgHNn2Xr/RbxcEUEa7b6TiRqRZ2Oa6xkypLv7wAW39RPWIiLVz4aRlv5w0eCmSG9X4sCP6XLSmU7C5wOuIMvSJv+MZD7O4H50jbjeg5M91K49ENc3bKopWv+FjaxVaipijKZCvedIaW9e9WQK2JCgc6r87rCPrEaRv7wGkQBDvVI6qyfx6aIdan+PNXoflJujCZ8AdnxcjX9hrNjPISQA==",
+  "notes": "ota-27 + AI can name your own categories on the lock screen; stop resetting the capture key on every launch",
+  "source": "masareefy@a6e725dd",
+  "created": "2026-10-18T13:42:35.890Z"
+}

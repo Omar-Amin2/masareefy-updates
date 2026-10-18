@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-27",
-  "seq": 27,
+  "version": "ota-28",
+  "seq": 28,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-27",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-27.zip",
-  "checksum": "1e34f7f07b6ac88e80d7ca2e8c014e862fae7253e916b0d5432a120d8d8257caa4cb88cbc8f836520860dfb044d8ea4e2f721dfe0b5c5a84b5b3aaf84cd5355abf91046766dd7ee5ca2202cf83de5a758d40b83bbc2830a9e992f1c62fb1d670c10a38b094435a9eccecb52caa15a6435fb30427d9eb98ae53be2f335551c8d7e560dd2a29765ecfe76f33cb2b4b2a0267a2538419032d361c1b11a128ebfdbc3a0fa23ff6ec2c813a9d4f5927b7127d084323fb767f8294185966632248b6bf5dc1bb85bdd9b7f1d8a426f43de16124664dac5166c29e72b140d304ce5503e334a061f677c506dfa301ef098fcc6d477d2c2d3c56df6c67f267a91ac9ac9ea2",
-  "session_key": "PwuKsgg/xf5+8t+b7Ta4zw==:GNyK5Qjirmxk8SOtzyfJkaCuVAccTFqb1YrUNu0lkJw71cK8mYrUQzlwtRd8Th5xl6TAIQXWXNtdlh5u7T5pH63aDgkUId1hkEY+6IuNaJHEvvaWQ3xvRYcNU5zOOclJuwjC4yy1JEN8X9WZsrCv/crCWRNvI8uNirBMjk5T13i+yli/h5rLIIfSu3ntJsTAyvVBs1ppl9ynNOsa35F/Pfmz1znLBeGnNs8+2i04Uk+2k9ZEgYilKLuErswvhV2SYSykAcYp2VsbgyirBLp62etWXtCULcIQgu8h8mSl4+QEJ/0Fi0XyQr2Q7rrvlGFLxXiWQ+YQ64hlTvVGDpEnuQ==",
-  "notes": "ota-26 + own categories: halawa to your snacks, no twin offers, tips, pick-your-category, lock-screen names custom categories"
+  "bundle": "ota-28",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-28.zip",
+  "checksum": "8f2498e017262c2bfec9aa6e8b66496d30481e95521109f793a8301b397c69963959b2d8a484edd5f6fc0c1f576d38c434bd460160aefc03d1773998e7a649825976fad421cc830e68369f735bf9fb9f3d3e9c71877a24cd02a2e24ff93c808407278ddbbb44886209495a47316c37e3ac886aa2861bc5e4fc5c16362cad5d838cce8550627774bde81dbad9a56b7b7cfae646781a8f202aca9b9c0b0c6b3269ee7f6aa79f0945467500a9db3e5be087790ae8c247098d20430593c5a72a0641eabe3d9696c93906ed681cde8b3ab91c0290e2427d37d02f8f03fa2d46a17f38c35070ef6981a761932bd65189412422cba4e9e5d6ca51b211e3ffb807244f91",
+  "session_key": "d+zpOrtA+/aSrVEOxh3yZg==:BzonGXuEMKFrOcLq9ccx8hN9+oehjTt9xk9LYuqeAdhobNU2p3pCoam6LOtAlqH74C4xkp0eC6Og+4j1yynpLC42z+z+ZHSzxEBbFitQpSVVR3tjOe7dIsKaCiUshZc6DSgHNn2Xr/RbxcEUEa7b6TiRqRZ2Oa6xkypLv7wAW39RPWIiLVz4aRlv5w0eCmSG9X4sCP6XLSmU7C5wOuIMvSJv+MZD7O4H50jbjeg5M91K49ENc3bKopWv+FjaxVaipijKZCvedIaW9e9WQK2JCgc6r87rCPrEaRv7wGkQBDvVI6qyfx6aIdan+PNXoflJujCZ8AdnxcjX9hrNjPISQA==",
+  "notes": "ota-27 + AI can name your own categories on the lock screen; stop resetting the capture key on every launch"
 }
