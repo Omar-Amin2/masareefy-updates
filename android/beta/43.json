@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-24",
-  "seq": 24,
+  "version": "ota-26",
+  "seq": 26,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-24",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-24.zip",
-  "checksum": "57c4d96b5b890788c5112aa0d5f1142f0b484a8023f42a2c5c0b7380c394b8a8366951e953ffcbdf7a7073bfe6dbb92909b3550f7a176bd70ef1874ef257f59692fa62bf0fc777dea3b9eb0ace73e89d466db21de5875b2b21d54935da8a469a82e0aa044ceaf78833ab7f98fb073deb654fc2d1cdfcb5cf046881b0f395304092e0f6fdc65e4809e2eea4739c9e22fb7c8b0f8e6609d1ff53bbf7e1875754194d5f28b14f7d191913165d6362f54ef0ab765a94344d3e9856a133de7edbdb80c58cd76632d022bbee0f63ca67fc8ca90e4c4d87affde41066bed574adef66b7bb77c52b7007aba865f3aa7e06daa417c3fe04d5627443613c87db17e86c86aa",
-  "session_key": "cv4434KtLo1x7ZBnQqx+/A==:nVEVjwKQAMKBDl3xq8YIjkzvCsL8tCeMwcDKmBVEWGA1cXJ548tzqdeGnyH7wf7v6o3Es2iohX/UcHVfPlNTbsj44HjgxzwZaAZod7sH0vd28TtIuUP0w4L+DBOxGV3/3NIyg0iFwi0+o0HE7bv91JpF/FqcXp0uudGtbUPIthZ33JdQJXu4kYBaVii/7Rwc7+WfI4VLX8y8a14nTkWTX2mk5OhlRny9gGg2W44gqzNPijIRC4b+KQ9DxWUgRuA0q9+ti0soquV1y3UxVBxE2YBZuX1LGubqhpmMqlOMzGXoJVHnA/h2/U7tScR/libWV0eSZHEW1K5ghzBKx24+IA==",
-  "notes": "ota-23 + Siri-style start: screen flips and tone plays together, recording right after the tone"
+  "bundle": "ota-26",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-26.zip",
+  "checksum": "183e7e2e644690b52b855f6f2b3528f769bc18dea5c70c3924d56dcbb4e20d394ba43fd6bea06016acb7fe332112686ba6fd098dab4032ee15dfcbf238357e463bd07b6e84447e4d2e8e7e98e8ad6ed313884da7913b83c89cbf1cc36eabeeb22581b6a430d99f6048b4da345f3e9907d6761aeded76bb89188eef7938f49771a17235eeb575a7174ae7acc0466e7fcad39569f68442c442c081d8b81e456a26edfb9a05b8d7cf60855350976c38f13894d4448c34c2c835735a980db4412d8f0300602eb24443c1b7c51a17b18bad2f2a3ca1dccc168acfb6ce8b4aca724b138ab27471486dbc45a59d37a33fa3834574dc1c988dec0ee5687c270e3fce6b83",
+  "session_key": "bPqKWlGVZ4cdTeDcv1iFng==:SGMgdQFIZl85vqIkvuw/KjKGNjNHQ46W1uhEtwoXWF3KJHeOT98P6Fj5wmz9uCwSQjCJUf6kUPrSnzHxFSHDx6g3Boyp87Xtj0alBTCvz3uN2dZjwaDVt6Ejr4qvZTD7/EsOjwytca6/PeVbmuUK49Z7KjwPTcLL6g9iiENB/Hce54PkwDta4sCBmYkh3GH7pdvQcEUEUSFzUAXtYDNfwYY5FGAPHJLDYKYBcrLqBOANyIfQkCx9Pez64thZsxwumghNp+BC/OsA/QfmpSf+u4Fukdqh3GuZgCwMJHfKy4uOGH0cAEg5EpowvR+WjW+fx+PbUtZ3e9S7Q+HUsWB9KQ==",
+  "notes": "ota-25 + voice categorization: keyword gaps, one-tap new category on the confirm card, sweets category"
 }

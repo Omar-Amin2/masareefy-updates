@@ -1,0 +1,16 @@
+{
+  "seq": 26,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "183e7e2e644690b52b855f6f2b3528f769bc18dea5c70c3924d56dcbb4e20d394ba43fd6bea06016acb7fe332112686ba6fd098dab4032ee15dfcbf238357e463bd07b6e84447e4d2e8e7e98e8ad6ed313884da7913b83c89cbf1cc36eabeeb22581b6a430d99f6048b4da345f3e9907d6761aeded76bb89188eef7938f49771a17235eeb575a7174ae7acc0466e7fcad39569f68442c442c081d8b81e456a26edfb9a05b8d7cf60855350976c38f13894d4448c34c2c835735a980db4412d8f0300602eb24443c1b7c51a17b18bad2f2a3ca1dccc168acfb6ce8b4aca724b138ab27471486dbc45a59d37a33fa3834574dc1c988dec0ee5687c270e3fce6b83",
+  "session_key": "bPqKWlGVZ4cdTeDcv1iFng==:SGMgdQFIZl85vqIkvuw/KjKGNjNHQ46W1uhEtwoXWF3KJHeOT98P6Fj5wmz9uCwSQjCJUf6kUPrSnzHxFSHDx6g3Boyp87Xtj0alBTCvz3uN2dZjwaDVt6Ejr4qvZTD7/EsOjwytca6/PeVbmuUK49Z7KjwPTcLL6g9iiENB/Hce54PkwDta4sCBmYkh3GH7pdvQcEUEUSFzUAXtYDNfwYY5FGAPHJLDYKYBcrLqBOANyIfQkCx9Pez64thZsxwumghNp+BC/OsA/QfmpSf+u4Fukdqh3GuZgCwMJHfKy4uOGH0cAEg5EpowvR+WjW+fx+PbUtZ3e9S7Q+HUsWB9KQ==",
+  "notes": "ota-25 + voice categorization: keyword gaps, one-tap new category on the confirm card, sweets category",
+  "source": "masareefy@56182b3a",
+  "created": "2026-10-18T11:24:04.838Z"
+}
