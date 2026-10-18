@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-28",
-  "seq": 28,
+  "version": "ota-29",
+  "seq": 29,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-28",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-28.zip",
-  "checksum": "8f2498e017262c2bfec9aa6e8b66496d30481e95521109f793a8301b397c69963959b2d8a484edd5f6fc0c1f576d38c434bd460160aefc03d1773998e7a649825976fad421cc830e68369f735bf9fb9f3d3e9c71877a24cd02a2e24ff93c808407278ddbbb44886209495a47316c37e3ac886aa2861bc5e4fc5c16362cad5d838cce8550627774bde81dbad9a56b7b7cfae646781a8f202aca9b9c0b0c6b3269ee7f6aa79f0945467500a9db3e5be087790ae8c247098d20430593c5a72a0641eabe3d9696c93906ed681cde8b3ab91c0290e2427d37d02f8f03fa2d46a17f38c35070ef6981a761932bd65189412422cba4e9e5d6ca51b211e3ffb807244f91",
-  "session_key": "d+zpOrtA+/aSrVEOxh3yZg==:BzonGXuEMKFrOcLq9ccx8hN9+oehjTt9xk9LYuqeAdhobNU2p3pCoam6LOtAlqH74C4xkp0eC6Og+4j1yynpLC42z+z+ZHSzxEBbFitQpSVVR3tjOe7dIsKaCiUshZc6DSgHNn2Xr/RbxcEUEa7b6TiRqRZ2Oa6xkypLv7wAW39RPWIiLVz4aRlv5w0eCmSG9X4sCP6XLSmU7C5wOuIMvSJv+MZD7O4H50jbjeg5M91K49ENc3bKopWv+FjaxVaipijKZCvedIaW9e9WQK2JCgc6r87rCPrEaRv7wGkQBDvVI6qyfx6aIdan+PNXoflJujCZ8AdnxcjX9hrNjPISQA==",
-  "notes": "ota-27 + AI can name your own categories on the lock screen; stop resetting the capture key on every launch"
+  "bundle": "ota-29",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-29.zip",
+  "checksum": "1d7d23142d73304a9cd27ad43d3f0ca8417200f3b34182af7cd46bf80f915a16b1ec8bb8bd6f8f964709787a2246f1f1c6e27024449743ab60baed510d3f03ca7e9c79de6aa489a876b25cfd1004829ba0e2ddcfaa7d63828e6210b613a33b151fc84be295244a14e3561b87c129e8848938a58def55fb87f02da479bbfc448dad4e3138be43e878deee1899f5c474b263ded9142ceb5889fcfa95fd50567b04c9624abf7ebd7b5a6b4bbec36252bcfd29f51dac80e93ee8dd68eab988153919ba23f79caa992bfec9b51e9a23d9adda5932a8226e7248cac10f6111af20f00f0ed605985b9a0abf13fc0731ef8e08a0754f12c9d3b70fd6d322488f615cd903",
+  "session_key": "uaML3ROcV0q/WxJvpfi5HA==:Vs9HiWOVnF5UGVXhbgwzycgUNdR31TqTVzdgEsclRjOxG8BlqgLFZJJyjIDijvzXx4kcfX3JwJAmbNNWk9YAPCYKZT159vsICPgfZ8vfPWaPAf6yXNd3Lyhe6f81ihnayulTmvxhb7lRXbBHRWuZEt9EdfP0YuEyaPNrrKaHRPBM0qNtlwSGgWx38XSF+7nuky8O3tM95RB1rThE/S7/g5+7DnGEuxud/QhMZoNt8oOuswyVxl6I0ryQA2UVMGfJMVHQycq7RRG0Mkcbg244jZWGGtlVCu/ZOXAzDkxYnIzou71rAfz5iVAxvuWS1W6DqlOUGFXhw06B3MpuNtElvQ==",
+  "notes": "ota-28 + learned words cover the whole concept (one haircut lesson files every haircut wording)"
 }
