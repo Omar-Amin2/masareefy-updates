@@ -1,0 +1,16 @@
+{
+  "seq": 22,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "54878016a9d471da87100e8972e16fd72ed00314350a0b4e9fd8a4f37a468cd4f2f519c0d28ed5921c787cbd11f155c58132dbcff57e927d4e5f648cd677509faafd89029c42adc1bcce3930bb299b0e0d3beb27e48e852b4a818beb00f4e27563329be787342ced2cbf9759fa56e36bc8b0a21790f5a00067cab0ee78cf441906db7a69b2278a52cf6c02b7696133870a932def2480d8bd07f35dce905d15ddde6c47b76680266974a45f01779b30bd5a9e3265f0cd78807310c25a702ab1f26c769cbbe762ecf6dce7cf10b44934440ccb6b376bc73c7ccc465ba98986c5120831eafe58558aacb4e4ffd7a22a61c65ff8f801aa02412aed32619183e56743",
+  "session_key": "B1mKLnBQnYl4Nl0qyl13Ng==:CCwfEawgDDmXmFZGWbH2y/tqSFtj5GbbGHOOAJcjn8JW1qKBNekjPfqjRAzX9BjTkKfNNeRLuQ1kNA4ISKSfLSr3AS0S0SEattS1WzCvLZKMYyFaxsiByDMQv278B5j3tMq/cnSJZ9RurKvsrsvAU+hNIr6Q//PvMQ1Ah/fxh9aIlHYqNZvUZIkOCuwuVa9ISZ/AKRYNm3DMPTEBXLIt0ixMdC1Y7K5EbRUBKv8aW5gbu4O4R428WajsWp4ibVDupFxXZ65CAgnjlFTyai7RK6HfjzgeED5VVmrT5b/mMeZDQb01Uj0kp4lCnVSJnVTYmjP9JdZg1slMQ68wzbLnaw==",
+  "notes": "ota-21 + mic tone timed by the audio clock (glitch fix) + mic_cue diagnostics",
+  "source": "masareefy@c6929a05",
+  "created": "2026-10-18T00:15:59.231Z"
+}

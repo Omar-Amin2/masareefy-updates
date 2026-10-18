@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-21",
-  "seq": 21,
+  "version": "ota-22",
+  "seq": 22,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-21",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-21.zip",
-  "checksum": "8533a33ab80f50c3bffc539d7d4c78e42bb0345504afa939268b1063c0791b32c89c1feda607d62e003ac752efcc5fdef314ebed71cf82bee1e6d2df4bab2e1ff9aeccb0effec0a90d667e7e626697c92f3739ef0037450da697ae7a46ede03946b03bd38d5482b41ce86a39d8e9f12a6a269a7785de101ecb5833434a77ac85139d20458f96bd39480ca2e7b21847dda6efed2edfced7212484aace2bb0dad442fe8f47fbb869a4a79f78b43bcabe2ecb7b4c837be6450fb03ea018520dcf1e7a029c925bd82925021a230a8304f8af3062d6fb28ef2f45e88dcb5bdca3c142c5fc2eb1a0f9c389c4c99a41a63fa473626bb3e6e863df54a152f0bc0b45672f",
-  "session_key": "IbiQXk00q2OzGhFwxdtQeQ==:YTYd/fvmXtPl9sOin94+UDfdaE49OHBv4WLG29JZpwsg1xIOXiIKCwjd8kpeJp1unc3jZ6lo559z8i3CQXlQkucv/XrsYgHc3YscTtZhC333L4jqlGn7HxYLIsaXjUsbykTsgMbkaIDu3FqMhoJH6JkIpMVmbEP6gQs67EbgB/GewGmRQK3O0S2R1Avjf2wVXc957Yj9r/hwCqpp01ozluxYUH3UOJSIyN8ilYB3ggbuP7wUzChhDJ6CGwR7Org3Oduc66VP29Yf1k296SWiK/ltkeCWQVeOW9kKMT5FJ1CcB/wXL/bMV4xfityZKZ/OmfwOeUVrN1aLjuz/bWu0HQ==",
-  "notes": "ota-20 + haptic when the mic stops; start/stop mic tone prototype (flag voice.micTone)"
+  "bundle": "ota-22",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-22.zip",
+  "checksum": "54878016a9d471da87100e8972e16fd72ed00314350a0b4e9fd8a4f37a468cd4f2f519c0d28ed5921c787cbd11f155c58132dbcff57e927d4e5f648cd677509faafd89029c42adc1bcce3930bb299b0e0d3beb27e48e852b4a818beb00f4e27563329be787342ced2cbf9759fa56e36bc8b0a21790f5a00067cab0ee78cf441906db7a69b2278a52cf6c02b7696133870a932def2480d8bd07f35dce905d15ddde6c47b76680266974a45f01779b30bd5a9e3265f0cd78807310c25a702ab1f26c769cbbe762ecf6dce7cf10b44934440ccb6b376bc73c7ccc465ba98986c5120831eafe58558aacb4e4ffd7a22a61c65ff8f801aa02412aed32619183e56743",
+  "session_key": "B1mKLnBQnYl4Nl0qyl13Ng==:CCwfEawgDDmXmFZGWbH2y/tqSFtj5GbbGHOOAJcjn8JW1qKBNekjPfqjRAzX9BjTkKfNNeRLuQ1kNA4ISKSfLSr3AS0S0SEattS1WzCvLZKMYyFaxsiByDMQv278B5j3tMq/cnSJZ9RurKvsrsvAU+hNIr6Q//PvMQ1Ah/fxh9aIlHYqNZvUZIkOCuwuVa9ISZ/AKRYNm3DMPTEBXLIt0ixMdC1Y7K5EbRUBKv8aW5gbu4O4R428WajsWp4ibVDupFxXZ65CAgnjlFTyai7RK6HfjzgeED5VVmrT5b/mMeZDQb01Uj0kp4lCnVSJnVTYmjP9JdZg1slMQ68wzbLnaw==",
+  "notes": "ota-21 + mic tone timed by the audio clock (glitch fix) + mic_cue diagnostics"
 }
