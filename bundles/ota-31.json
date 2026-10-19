@@ -1,0 +1,16 @@
+{
+  "seq": 31,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "29f8ee7fba0e59b174596eb0268fb9dbf1ddede78437b804f6fe72560da9849fed5c1da747f130a06ffbe270677087e57a6ee45547faabb244ad55a3c144838275b44a0463fc83622af3a4ee44cdf1a3afd658f5b126191cdd71ead2f5d2b2379bb9af01211c1562e3edb251f981675bbdc437e95f6c2727533a23ad5f1894ce1868d8c2fc21ee6228b8afe84d139882e29f22769680088e3587502b59e92260371747bdcd2e0c2c4fee74c414997aaa223b058adac0477fbb886f1531fa77ab622b4f20778845294311d3061237f6ad495ee4d6363b2096381496ef032e25eaffd43be7f59a4bea3ba885d23d3f58b6a1bf32315f29577c8db09251be0edd98",
+  "session_key": "sfTX4VcU9ETi9BpD114fKw==:b3qNYJMrZ763+n05VQCbiKqJ9ej06xkA93Jzy18zWFtJBFJoPaGhxhWNcLm4rrO1vq6EvRpFjeLowBah8QzoYAJYP9lPWK/xqqdejUOcMxIifmggONpaRyAkQC+4ditAwLA5UOYg344ckswwqeL8An29sWWQrz7wxn29qFsHa81VVtPfGti36Oao63cBa+ZUkxAYandggwGPEcj3T22B/qgo/jjk4NqnFEj7FsNv0ZSUrj1Of+9iBUBcMW5ikIztVaxNvvicp/153mZu6bow5/UbAHZ/NYZRH0Hz8ilipzY4KeCnKt2tuuROlsllTdGc+gFWTmC4qRtBSLDqYdtGGQ==",
+  "notes": "ota-29 + referrals: «اعزم صحابك» invite codes, Home countdown, What's New release 'referrals'",
+  "source": "masareefy@0120cf4f",
+  "created": "2026-10-19T14:32:17.972Z"
+}

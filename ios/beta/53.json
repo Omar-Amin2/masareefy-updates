@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-29",
-  "seq": 29,
+  "version": "ota-31",
+  "seq": 31,
   "builds": {
     "ios": [
       53
@@ -10,9 +10,9 @@
       43
     ]
   },
-  "bundle": "ota-29",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-29.zip",
-  "checksum": "1d7d23142d73304a9cd27ad43d3f0ca8417200f3b34182af7cd46bf80f915a16b1ec8bb8bd6f8f964709787a2246f1f1c6e27024449743ab60baed510d3f03ca7e9c79de6aa489a876b25cfd1004829ba0e2ddcfaa7d63828e6210b613a33b151fc84be295244a14e3561b87c129e8848938a58def55fb87f02da479bbfc448dad4e3138be43e878deee1899f5c474b263ded9142ceb5889fcfa95fd50567b04c9624abf7ebd7b5a6b4bbec36252bcfd29f51dac80e93ee8dd68eab988153919ba23f79caa992bfec9b51e9a23d9adda5932a8226e7248cac10f6111af20f00f0ed605985b9a0abf13fc0731ef8e08a0754f12c9d3b70fd6d322488f615cd903",
-  "session_key": "uaML3ROcV0q/WxJvpfi5HA==:Vs9HiWOVnF5UGVXhbgwzycgUNdR31TqTVzdgEsclRjOxG8BlqgLFZJJyjIDijvzXx4kcfX3JwJAmbNNWk9YAPCYKZT159vsICPgfZ8vfPWaPAf6yXNd3Lyhe6f81ihnayulTmvxhb7lRXbBHRWuZEt9EdfP0YuEyaPNrrKaHRPBM0qNtlwSGgWx38XSF+7nuky8O3tM95RB1rThE/S7/g5+7DnGEuxud/QhMZoNt8oOuswyVxl6I0ryQA2UVMGfJMVHQycq7RRG0Mkcbg244jZWGGtlVCu/ZOXAzDkxYnIzou71rAfz5iVAxvuWS1W6DqlOUGFXhw06B3MpuNtElvQ==",
-  "notes": "ota-28 + learned words cover the whole concept (one haircut lesson files every haircut wording)"
+  "bundle": "ota-31",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-31.zip",
+  "checksum": "29f8ee7fba0e59b174596eb0268fb9dbf1ddede78437b804f6fe72560da9849fed5c1da747f130a06ffbe270677087e57a6ee45547faabb244ad55a3c144838275b44a0463fc83622af3a4ee44cdf1a3afd658f5b126191cdd71ead2f5d2b2379bb9af01211c1562e3edb251f981675bbdc437e95f6c2727533a23ad5f1894ce1868d8c2fc21ee6228b8afe84d139882e29f22769680088e3587502b59e92260371747bdcd2e0c2c4fee74c414997aaa223b058adac0477fbb886f1531fa77ab622b4f20778845294311d3061237f6ad495ee4d6363b2096381496ef032e25eaffd43be7f59a4bea3ba885d23d3f58b6a1bf32315f29577c8db09251be0edd98",
+  "session_key": "sfTX4VcU9ETi9BpD114fKw==:b3qNYJMrZ763+n05VQCbiKqJ9ej06xkA93Jzy18zWFtJBFJoPaGhxhWNcLm4rrO1vq6EvRpFjeLowBah8QzoYAJYP9lPWK/xqqdejUOcMxIifmggONpaRyAkQC+4ditAwLA5UOYg344ckswwqeL8An29sWWQrz7wxn29qFsHa81VVtPfGti36Oao63cBa+ZUkxAYandggwGPEcj3T22B/qgo/jjk4NqnFEj7FsNv0ZSUrj1Of+9iBUBcMW5ikIztVaxNvvicp/153mZu6bow5/UbAHZ/NYZRH0Hz8ilipzY4KeCnKt2tuuROlsllTdGc+gFWTmC4qRtBSLDqYdtGGQ==",
+  "notes": "ota-29 + referrals: «اعزم صحابك» invite codes, Home countdown, What's New release 'referrals'"
 }
