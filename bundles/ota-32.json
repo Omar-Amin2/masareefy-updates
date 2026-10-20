@@ -1,0 +1,16 @@
+{
+  "seq": 32,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "08866a171ae4e8424cd437cc14adb32a6e92126ab485a7d0cb881ed8cc139a23b1d878b5cc7b5098a0cf036f6b3d5ab6a484a8cdec013a6752ef6a92d07c74df8736436faa941be803c5506e08098199b9eba8b12f5201637697ab0f0d5921be6320c0eef5cb75153121ae61d35a46d5540776d5def6467399c89548dab6a2b5e1a7d6d644f6b97f795f39c1796c31673d265eea064322ca0baaef56511618387505a33e589541fa83b443672ad8a31f1b8d4f88154e0588ac6de32fce7966a4b15075db99838505e954495c478a19af5e94f1dbc8efd53688a3cb957446a2f3404704601757261e53642bafe5fe9a1a4b622662082518521e41e4706a1f3d60",
+  "session_key": "n2FiLq0rvZ+T26v02y7zow==:SXD2Ldhep0gKnG0I7GKIKF5S07jYbhkb1ZTKXEiSN5Qa5QTC1k9cthNH+p75l4SrTVkWx7jWvFWaWXEK9DKlNJwbKA8t+6+mzC+DopL9C7fR1voCsMeqboeYICgZjWhjiJfnp/+AEeYPu28vY8FfAGoZ3wMQkZw5qHb+uQAj0Hod0iT24O6zcO83B50lquN7V4Aka4ssckIB2ytJLk9UbFPFphMtnAu5nx+7euQbbG9+7fI2XN0Ki6wSz7tjgh7oRrGrFgLestQmIEZHOlwx8ZzUjvHdUoWGG2EP7nG8U7IZ28lab03rIZn0CbsKZVC7OZF4bEtP9ofDShKjahEePQ==",
+  "notes": "ota-31 + Pro users (store or comp) are never promised days: gift copy on the invite screen and Home card",
+  "source": "masareefy@29c07a85",
+  "created": "2026-10-20T11:26:05.066Z"
+}
