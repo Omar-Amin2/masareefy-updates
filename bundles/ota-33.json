@@ -1,0 +1,16 @@
+{
+  "seq": 33,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "071fa54572180f308268236ebefa0ff03293007ccdea1f5d2e5bc1d3ad34a1e0837dd01b5d8e738e81f6d2e028bc080e698bebfdfc7f7db518e11fc11ecf70e94f14452e170053d06ad5e87dc4a9d740a24fbd53dd0cbdc8314cdafe7a40ead9fd3c279930ccf3b4d9aa207856899b24e85f2c559624b458c55607dca3514379d69e8880fec74cc104600acd4a322bc694d7b691e528cf86dd760dce974c62c66554813d2c871ebbaceea897712ca6e8a271a710fa323c5d1fedba0b47a9194d0fb1c3f48d6a96e15098397be4aae8a9c6513c9d73f518c25cb47cae245db12a3a6cd7f49f414d010a67c3e428646b18565dc340df69d2aa246074fe35b8bd71",
+  "session_key": "F1etNq6b2UN/ivM9RzUFPQ==:FzLjximlqIy9zuqRxoGW4ulsWbo4da+EilMFlaZZqJWhjInA2XFQmR4vfpF9nG6xBB4PfasQ4ox4M2LUgdY5w2NuM3KX6qkq1ScGi9VQuY8r9A/0ax0zwmDkwfr5/eFfbX7WXr51EMUEwVIw+APtq3vYww7AhnoufsF9GEsfcSOA1gwGBqjs5/qGzdNQm/ir5X9xD/Q1/HOdlLSoJ8OVTAQPGMES0ZDfI4nHlzGssn7OotSWBqmvT5yQfpFmRfsVnKpmqm4RP/Ac8QSrOrPlMaL3WM9vcUQYVYtMuk5/RP0VrUxUSCdfuGCYGWapsVenqVOib7SKlGiz3wsVqqruvg==",
+  "notes": "ota-32 + «اعزم صحابك» redesign: code first, numbered steps, friend chips; an invited friend sees their progress first",
+  "source": "masareefy@edabde2a",
+  "created": "2026-10-20T19:15:15.379Z"
+}
