@@ -1,0 +1,16 @@
+{
+  "seq": 34,
+  "builds": {
+    "ios": [
+      53
+    ],
+    "android": [
+      43
+    ]
+  },
+  "checksum": "4413a9bd23596151ed413e8dc1c85b05709326983699c008fd32aef35393d5fae19418576188723aa39ab2e522a68a63be26c1d980d355c005befaed35147df511037618add04e977fcae590688c1d9d9f56fbfbf4ec461a6efc21b9367e541ad390a4a276267bc62371918cb0ad21b8deecc348100409e2edb4ce5bce50bab6f157616f0d382963bf41fc15d9e155d86e7567c366f2773bc751291f2aad343bc4fa68091f655a1e5ab3e2b464c5b46902da1e6a05e14ee20a3465b9dcfa0ba09c714f83d55c5a9f5388a2f035614e706006486a19feb3701c6ca054eecd2726e86947dec87ca868bce6db4275d8537d2adb2b60c74cfec31b92f66efe210bc9",
+  "session_key": "O7lyfHYTZ+0O03/7JIBj7w==:IJvLFYN6aDXfwVkMjk7RMjIkq/oGlrKSmqFBwenqns1efLypYJXIDXNubFywYUnEphBA/0vvvXXnh9xtuOnmXr/YgFmkvDEzgkJ+/+SDjSD0F5DQ2cPnmS9ce2ngxGCDvXduvNKx+97g964SqJCDR7yrMPLTFYW8n1H8Bm6/LmMHGRUjmdJgQAcJCqulbdyouWOVf44lpttCmpADDpiErfTCQDVaATdofAnbh+s0t7tBUe4pdjImUaos6LVlJi08P+ucNij/NU/gWXrSNn4pHJ8pIDiw6TcXhgsAKIsLuGpjxLdHAfMFL4f1WFaNFwR8iLM88PZFjVV1nbz9r1uGCQ==",
+  "notes": "Sync line counts only the signed-in account's changes",
+  "source": "masareefy@1f99b2f3",
+  "created": "2026-10-20T20:42:43.344Z"
+}
