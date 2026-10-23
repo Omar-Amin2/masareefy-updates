@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "version": "ota-36",
+  "seq": 36,
+  "builds": {
+    "ios": [
+      54
+    ],
+    "android": [
+      44
+    ]
+  },
+  "bundle": "ota-36",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-36.zip",
+  "checksum": "25df6384f721c03d50d8cc5215c36d869af9d577c528fc3cae031a98229c74ffa440313611cefbeec65a1c9a8bc5a82abe70e3e29a8ff319a5c0ea0568f80c8135bfba54623cd7ddd50a8acb7b60bf869dfe99fdba6a2d574a35a0d52db4335a8e55b687dc67830f7bf5fbf099d01e616ea1e837b3e05edb6553493cea7a4005f7955de5b30e90a95c561951e8737b296ebca77aafc917897050029822cf8095d4a4a910c9902cf248b70628069dd0e9505a154feacd5c09c4a056d71d41b458c86ca692d689d104114f5aff12431c098c7cbf6605045f9aa5e67e61b4437345a219a904b5b09220fc98099a331323b71a3d4fe0166a5f3683b170557c1a04bd",
+  "session_key": "cMnAVu8xZfLh/36L1rSJaQ==:hS4lfRclAsaGb1yFOuwHeROEk6Ie2PLHtDvo8JOi610sN0Y7TUZbGC5syZngILbu6f0tbH9jWMs/sffs7PWJcrinsVeBHdjdIFzDsAvoVfHAJBIAL9J0UKhIxChbZNkIAr8wdJx/batGpf0qOPuPjKxwluyNrBl7Dnm60L0hIfosjTQ/BJtOapfKjqqmn6e0Ivx7HzQ6D+XIaM5XhguOHkSLd+C5B3CVhbnsIO6LYp6x4qpV3P6xFPxH/vLr4tu2uUpZX6Bq2cMpslGDJd4nzWIzAU+TOYVV7FD8ezEL2lce3hS6oe0Yc3NCOoy/r3c8ltvc/hoDPR/s0xVNkLDzUg==",
+  "notes": "SMS amounts: «USD .98» is 98 cents (was 98 dollars); KWD 3-decimal amounts"
+}
