@@ -1,0 +1,16 @@
+{
+  "seq": 38,
+  "builds": {
+    "ios": [
+      54
+    ],
+    "android": [
+      44
+    ]
+  },
+  "checksum": "2177dae7d6d44222a66e224ae3149b8bd93cc1a0f5fb175cd0f368d3a516f8025adfabb7999506581900c833e73538219ac4de5696111ece80e4e84005b4631a34e93fe5d0378046e974d0a8397851fc2c521a8a159c76e661f10bde219339dadea354b174c43e9b294a6e8a5a5c242c83887cb9f62be62e49427caeeb40078ec9b0fabc4c1dd6063d84859e6b9371199fe03664843f9240612bd71ef0d912a2a9850209e0e45d554ec5945d2dd9b452272e1924fecbfcd49facb81ff23a135604b8ddd3b86e8302d07121d8e31b446db6d0e8bfa408d704ad08a7438eded3f1cdf021953ea41205fab85499db2279ced58c8591e3fbef1ad87396114c65fa6a",
+  "session_key": "5kjXNvJ/rv77lyzuz6lDQw==:WAnTbFxHYukDoVscz3LchY0PYhI242+NueTApayGO+jFzzBQOqnH+MlXS9rlG961rnh9QDej91qcvHmZy7fusJrc/3SMvfbJmlbK+lUfu4NsA8KN66CM+VmbRH3n2wdKpH12cEw2zlZ6NEYhElYXZfAIwFw/Y90p9Nl5ia+0scbuXrbHqpN+Be363cvbVYgX8P5wqCMsUtvY/nWaas+c83fwXWvOI0Za3K1kZ7kroG6LIl8AnsgvbpIDQD25922fEige0Eiy5wt+aa8Z8kVT2kcKcAHNtRpYotXjJrCL/jJluK+tHdt0bC69DYtaKWfMO/GMMRl5InpakdiUtwCRuQ==",
+  "notes": "Analytics: entry_deleted / entry_restored / recently_deleted_cleared events",
+  "source": "masareefy@ed7904a6",
+  "created": "2026-11-08T23:54:02.683Z"
+}

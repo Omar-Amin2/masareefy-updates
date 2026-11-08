@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-36",
-  "seq": 36,
+  "version": "ota-38",
+  "seq": 38,
   "builds": {
     "ios": [
       54
@@ -10,9 +10,9 @@
       44
     ]
   },
-  "bundle": "ota-36",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-36.zip",
-  "checksum": "25df6384f721c03d50d8cc5215c36d869af9d577c528fc3cae031a98229c74ffa440313611cefbeec65a1c9a8bc5a82abe70e3e29a8ff319a5c0ea0568f80c8135bfba54623cd7ddd50a8acb7b60bf869dfe99fdba6a2d574a35a0d52db4335a8e55b687dc67830f7bf5fbf099d01e616ea1e837b3e05edb6553493cea7a4005f7955de5b30e90a95c561951e8737b296ebca77aafc917897050029822cf8095d4a4a910c9902cf248b70628069dd0e9505a154feacd5c09c4a056d71d41b458c86ca692d689d104114f5aff12431c098c7cbf6605045f9aa5e67e61b4437345a219a904b5b09220fc98099a331323b71a3d4fe0166a5f3683b170557c1a04bd",
-  "session_key": "cMnAVu8xZfLh/36L1rSJaQ==:hS4lfRclAsaGb1yFOuwHeROEk6Ie2PLHtDvo8JOi610sN0Y7TUZbGC5syZngILbu6f0tbH9jWMs/sffs7PWJcrinsVeBHdjdIFzDsAvoVfHAJBIAL9J0UKhIxChbZNkIAr8wdJx/batGpf0qOPuPjKxwluyNrBl7Dnm60L0hIfosjTQ/BJtOapfKjqqmn6e0Ivx7HzQ6D+XIaM5XhguOHkSLd+C5B3CVhbnsIO6LYp6x4qpV3P6xFPxH/vLr4tu2uUpZX6Bq2cMpslGDJd4nzWIzAU+TOYVV7FD8ezEL2lce3hS6oe0Yc3NCOoy/r3c8ltvc/hoDPR/s0xVNkLDzUg==",
-  "notes": "SMS amounts: «USD .98» is 98 cents (was 98 dollars); KWD 3-decimal amounts"
+  "bundle": "ota-38",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-38.zip",
+  "checksum": "2177dae7d6d44222a66e224ae3149b8bd93cc1a0f5fb175cd0f368d3a516f8025adfabb7999506581900c833e73538219ac4de5696111ece80e4e84005b4631a34e93fe5d0378046e974d0a8397851fc2c521a8a159c76e661f10bde219339dadea354b174c43e9b294a6e8a5a5c242c83887cb9f62be62e49427caeeb40078ec9b0fabc4c1dd6063d84859e6b9371199fe03664843f9240612bd71ef0d912a2a9850209e0e45d554ec5945d2dd9b452272e1924fecbfcd49facb81ff23a135604b8ddd3b86e8302d07121d8e31b446db6d0e8bfa408d704ad08a7438eded3f1cdf021953ea41205fab85499db2279ced58c8591e3fbef1ad87396114c65fa6a",
+  "session_key": "5kjXNvJ/rv77lyzuz6lDQw==:WAnTbFxHYukDoVscz3LchY0PYhI242+NueTApayGO+jFzzBQOqnH+MlXS9rlG961rnh9QDej91qcvHmZy7fusJrc/3SMvfbJmlbK+lUfu4NsA8KN66CM+VmbRH3n2wdKpH12cEw2zlZ6NEYhElYXZfAIwFw/Y90p9Nl5ia+0scbuXrbHqpN+Be363cvbVYgX8P5wqCMsUtvY/nWaas+c83fwXWvOI0Za3K1kZ7kroG6LIl8AnsgvbpIDQD25922fEige0Eiy5wt+aa8Z8kVT2kcKcAHNtRpYotXjJrCL/jJluK+tHdt0bC69DYtaKWfMO/GMMRl5InpakdiUtwCRuQ==",
+  "notes": "Analytics: entry_deleted / entry_restored / recently_deleted_cleared events"
 }
