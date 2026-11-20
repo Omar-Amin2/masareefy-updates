@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-45",
-  "seq": 45,
+  "version": "ota-47",
+  "seq": 47,
   "builds": {
     "ios": [
       65
     ]
   },
-  "bundle": "ota-45",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-45.zip",
-  "checksum": "53d451210a878e98e6056e7ab34d833b6a575a6491a3f867eb3845dda4a354d62de8d65b49e765233914199ba5ee7e3ae97141a1c504834a27e3f33c35659f65f675f98f1b01aee5999793c5bdaaddef4570b5fe0cc47784b2da0648a64c0058759038fc424ea2a6dcb5c6004b5008beb2ce023f0bf73e3cfa1fdda3db1ebf5e61b1e8e86f0e14d4648109c9eaaa94912f2296a497af6970ba89aa9a8e88d6debe91c33f33db66a096848463f7e5b8b9bfbf7d9a4c9218f693c017c6d1bbc1a6ba5c984ae34d453b4912b6f17eff1ca53382678190d86c62a4260cf13df521a3f345d6033e885fdeda08e1994eee605b217a0cafa66fd20a4ea4cae33b99274b",
-  "session_key": "UjeEfcbsrY31x5hLOtWqBg==:TLNxRGOs9N+dHfn/fqpHGa8IsKHphQK9iz6evuw8oBXHxKLSV7S4vHcgoIMfuk9Xr+pxpC7FsX3ulGnKSDROtsFM+2MsnbmLHa1LnGGOixGw1kvNhAZMLDPOBxNF7UGcmbIWKJM11OOBJb9IuvbTwmH9onckCAS3Ko7n1oyjp6PGCRICNW2az9s64z+/S2Jp9/TlbRadoS4fRh1vEXkJDTlVv3ZcM/aA39Zffh9bslG8cZx7JwWTcIXJ60oUWGBNam60F2mwrgIxTtlO3egwRZuxqdkV3X8GcSkHRE4luXAMR7ev8jZgTlaYG2/J25oTO6043bjtzRzwhYJjDAkk4g==",
-  "notes": "Launch check: reports a blank, half-drawn or stuck screen after opening"
+  "bundle": "ota-47",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-47.zip",
+  "checksum": "19a6161d379ca22a1ce12988b6f0807d0d9e36fe5ea3cf8a0f787a5d9c306a8eb77269fc72ed585603fc8b2b388a2ea41dc14c1c8d8204ed3c4b87106d589addea564292da31fac3ea21cca454b130571d7ff4b6e9e9155ee99d79fad959f1a8b51bca03b42be1f12db87c4abbabf63178874c8c6b978d3142ffdd432368db7956a7eb9ab3778dd5330f891ac5c2994c478bb277f1123567c0eceecfba6c96348b9d7d0165622f721cd5ff690f0d849648c922540fa2916034f54664bdd9658eb2a0132c7f6f6de68e8641309c0924c3feffa3210ca2852069c7ee40919f516e19ca41238dd7d278dd27ad0600b6322b7f1ea94ca504f9f3c97b368d04d6df0e",
+  "session_key": "6dMGWrwMpKWsY8H6UtlbDA==:lchAR775SbN2GPu/fGLRVHEmg9QPrB1kRrm2CoLX509eNI0cborYofCdejAXFFI58q++9qKqTPDwGa5pA3VpWF/HrlXviPWwdbPb084h9Yr9/LOHyP8CU0zAbig3WhZEUrtFl+FufgtIuOaORRQgBoH1que7IigUwBVRDV4FfS1r1WYXFIA+GLgkXS4NSMepLz3hn0NGoqXvMTlsV3ZOEeUhj1B1wa3vU3C6JyYYARyDQXkMc+7PrmH9EzOxPfz7w2m9kzRNsj3nX7qcM4zePDgFzAMvWtay5/jfR8s6dlx2jZU7WwsIX4KtkpsgWm5zMESeZVRWT73C0nJ+KyQ6aw==",
+  "notes": "Navbar: the glass selector no longer freezes half-way when a tap is lost"
 }
