@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "version": "ota-38",
-  "seq": 38,
+  "version": "ota-40",
+  "seq": 40,
   "builds": {
     "ios": [
       54
@@ -10,9 +10,9 @@
       44
     ]
   },
-  "bundle": "ota-38",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-38.zip",
-  "checksum": "2177dae7d6d44222a66e224ae3149b8bd93cc1a0f5fb175cd0f368d3a516f8025adfabb7999506581900c833e73538219ac4de5696111ece80e4e84005b4631a34e93fe5d0378046e974d0a8397851fc2c521a8a159c76e661f10bde219339dadea354b174c43e9b294a6e8a5a5c242c83887cb9f62be62e49427caeeb40078ec9b0fabc4c1dd6063d84859e6b9371199fe03664843f9240612bd71ef0d912a2a9850209e0e45d554ec5945d2dd9b452272e1924fecbfcd49facb81ff23a135604b8ddd3b86e8302d07121d8e31b446db6d0e8bfa408d704ad08a7438eded3f1cdf021953ea41205fab85499db2279ced58c8591e3fbef1ad87396114c65fa6a",
-  "session_key": "5kjXNvJ/rv77lyzuz6lDQw==:WAnTbFxHYukDoVscz3LchY0PYhI242+NueTApayGO+jFzzBQOqnH+MlXS9rlG961rnh9QDej91qcvHmZy7fusJrc/3SMvfbJmlbK+lUfu4NsA8KN66CM+VmbRH3n2wdKpH12cEw2zlZ6NEYhElYXZfAIwFw/Y90p9Nl5ia+0scbuXrbHqpN+Be363cvbVYgX8P5wqCMsUtvY/nWaas+c83fwXWvOI0Za3K1kZ7kroG6LIl8AnsgvbpIDQD25922fEige0Eiy5wt+aa8Z8kVT2kcKcAHNtRpYotXjJrCL/jJluK+tHdt0bC69DYtaKWfMO/GMMRl5InpakdiUtwCRuQ==",
-  "notes": "Analytics: entry_deleted / entry_restored / recently_deleted_cleared events"
+  "bundle": "ota-40",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-40.zip",
+  "checksum": "1569bba57df90d29e996a261beed2cf9818f6e72c0bac0459503e6aa9cdf0a2950e8889b27a53e7cd7e9004442b4769043820a4b3e2f308bd67462a2a529414d0aec47789594d9431125e6c09f624e7e63d17d2745d4d9d2c03a0abafaa22fb06d1bc389f0c75d81057b811e600a41eb9e6e7adacd0f4cad1058e15cd6c8611c59efe31d9e9abc6f11bb85f84cdc31ee369fbfcfe4f306d785addb3230019ed46106910683fa0a12b119279d30fdafb1d9ee7e055e210d6eb0c14367e0bd98eb30f833eb5bdb07d8d7bdd3927e46bded7372ad67e241ac73ee27edffa124aea7d00e8157daa1adde14741fe65aa569f1208af76cb2aab7450f4002f06acb1914",
+  "session_key": "yvJX1JJu+UgZ/YxqZ/ZxgQ==:cFNSHmwZRhqmL62NvMGJmDKWv1eqvVfrOU7JILGxmenMCJDAAYAk2/3OHTXKgbvluiiiyLDtvE4aWxL2155dEtWYvHKEmSID99n0Byrs1z1XAZdxQvlWN3OOwupxbwyzO6VTYldT1y5+PPM72w5SdYMSdzhuN1MONS1W74Ps5yXEscvZtwTUnvKGYpN2fY4t9Xf5Eh4GuF4c1ie9x8MCB0r0pbcYwgehBb7Apz15OHdXiIrMlMm/ODBvXzj5SCl49hWY02biGOGfm4WI7MgtOAgpEUwNoeOHdW3iNl82mPEe6646SQzSBZXrUd4BRlWDsTK6jj6bYo8vB/0Q5GM82Q==",
+  "notes": "Details: a category's list no longer shows off-budget expenses"
 }
