@@ -1,0 +1,13 @@
+{
+  "seq": 48,
+  "builds": {
+    "android": [
+      45
+    ]
+  },
+  "checksum": "48c379dbe2b1128d685ae66b6c7333ed6609a94898fdc1f115ae12e4b456d585fc932f17c7baea12a5c8230ea77d2209fe5f2955662795671021f96f37a7867f54ef31799037ea0d02f9248e1c7cc3db6c74ece44b1b1901da433e8dbe27bcca1b05e16e1cf8da391533cf483e56844a65c0b31ee862b0e5cb4d5cf219ec78a780ddbdb634adfabbbc645b60f07b2b02fd9cb9b82bd2de70cc63724b306674d613e471796f85817e82f81ab11dde294d412e115a33a2bd6033016940010ad5c05d312c51a3e71acf22a4725263a9d01ac5c907e84880a7f12730fd0570c37d2d2ad6d1fc8e880bcdcc76e45c570e10b1242ef5f781faead781d1981654330e7b",
+  "session_key": "RI5wgwEZdD80BYKQImLKlw==:MTOxedFmu2f1Kig1krNCy93I8WtdosAXH0TOTPkU3rKIlegxPdtOnG9oKO7JS+/38b3nph3SFfsQCpJAxpN0ClbJ9yBCdkPOUhGtajVcvLXXkdbIeTamB1RzunYIsqh2NVK7w5ev02X3jeVVEnJcNPN3Nr67auPuLEJeeE9CN+SPh6h7rA3e8JeyqFBojOgeFUE7R/YTljQ07T0qWB7zrzMRMAhR5NowOUUPKMQpfgD+cS0fuSYp+4GeuMQVHecJ0D8o1yIk9bax6h/0bfrauDe9+9i+KpdtAfsEhT5vlNl1CQA7I0gVCIjjhGMAB/NhmFPE1+GkBS3jKea5SNdn9A==",
+  "notes": "Navbar: the glass selector no longer freezes half-way when a tap is lost",
+  "source": "masareefy@e330f10a",
+  "created": "2026-11-20T19:25:37.174Z"
+}
