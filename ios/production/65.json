@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-42",
-  "seq": 42,
+  "version": "ota-49",
+  "seq": 49,
   "builds": {
     "ios": [
       65
     ]
   },
-  "bundle": "ota-41",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-41.zip",
-  "checksum": "26525265afa8c654e1a84f4f5757d71c4ea7c0dc7eb907e3061925dd8a3a218ee2fa3b91750e782f488413670393bdecd613c448ee776d9cf6c4746d8243b442459ee31567ef646cb601a5bed3f6f1d950bec3ae6ef59096dd2e4d72ebdfa42c2aed04f78fd8ac5fd1cb69daee478004145d4525d7abc3ade3ccc81d939f0d289c4bdc08c52d9a172cb09fbaf3072e432f93e00265080a34eb5b46253711b573108403dfd6021defbe718617311ea8deb511a0eb3bd46065b51bd85607ba7973a57fcd98190b14a5d8fe43810275fbf6442f379c89c165bd129869dd46fefa6e20e3404f7fcd8eb4a645bf40694b5b32bf9916a4beda439ab740f355f8ca873a",
-  "session_key": "SRRwLxp6Y75MASHdISwDcg==:cxRRphtd6pPX28IcK4MpqITxxmgUlHyW6ST68PvGeAvCYWQM93YJ5npI3Tj0emdHT6R4N6xkXa7XD3Gw3W6Phe022VvfkKSI+yYld8sXJkfsvnAXVlJr3KAxUJ6lB+QCScRP53o2GA1KDIlP4R/9oc+h69OaGSsnw6pcKqgEhYcHPzrPiU8IJAxxYS7AIPs0XgGCWxdJYFWjr4clDgA6+5eo/5iO5el96yc0perJV6quNm6W6f7VazjJ5N7RIWCmDa9TOe2+aNy8jL+gR+ObKfcicdJmYox2dydfw47Sx/unl1mUqpCYjJm+jvI+QaZoCxCO8NYqLj3VF2NIqToecg==",
-  "notes": "Details: off-budget out of category lists, day card big number; navbar drag fix; more category words; invite link fixed"
+  "bundle": "ota-47",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-47.zip",
+  "checksum": "19a6161d379ca22a1ce12988b6f0807d0d9e36fe5ea3cf8a0f787a5d9c306a8eb77269fc72ed585603fc8b2b388a2ea41dc14c1c8d8204ed3c4b87106d589addea564292da31fac3ea21cca454b130571d7ff4b6e9e9155ee99d79fad959f1a8b51bca03b42be1f12db87c4abbabf63178874c8c6b978d3142ffdd432368db7956a7eb9ab3778dd5330f891ac5c2994c478bb277f1123567c0eceecfba6c96348b9d7d0165622f721cd5ff690f0d849648c922540fa2916034f54664bdd9658eb2a0132c7f6f6de68e8641309c0924c3feffa3210ca2852069c7ee40919f516e19ca41238dd7d278dd27ad0600b6322b7f1ea94ca504f9f3c97b368d04d6df0e",
+  "session_key": "6dMGWrwMpKWsY8H6UtlbDA==:lchAR775SbN2GPu/fGLRVHEmg9QPrB1kRrm2CoLX509eNI0cborYofCdejAXFFI58q++9qKqTPDwGa5pA3VpWF/HrlXviPWwdbPb084h9Yr9/LOHyP8CU0zAbig3WhZEUrtFl+FufgtIuOaORRQgBoH1que7IigUwBVRDV4FfS1r1WYXFIA+GLgkXS4NSMepLz3hn0NGoqXvMTlsV3ZOEeUhj1B1wa3vU3C6JyYYARyDQXkMc+7PrmH9EzOxPfz7w2m9kzRNsj3nX7qcM4zePDgFzAMvWtay5/jfR8s6dlx2jZU7WwsIX4KtkpsgWm5zMESeZVRWT73C0nJ+KyQ6aw==",
+  "notes": "Navbar: the glass selector no longer freezes half-way when a tap is lost"
 }
