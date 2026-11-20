@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "version": "ota-42",
+  "seq": 42,
+  "builds": {
+    "ios": [
+      65
+    ]
+  },
+  "bundle": "ota-41",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-41.zip",
+  "checksum": "26525265afa8c654e1a84f4f5757d71c4ea7c0dc7eb907e3061925dd8a3a218ee2fa3b91750e782f488413670393bdecd613c448ee776d9cf6c4746d8243b442459ee31567ef646cb601a5bed3f6f1d950bec3ae6ef59096dd2e4d72ebdfa42c2aed04f78fd8ac5fd1cb69daee478004145d4525d7abc3ade3ccc81d939f0d289c4bdc08c52d9a172cb09fbaf3072e432f93e00265080a34eb5b46253711b573108403dfd6021defbe718617311ea8deb511a0eb3bd46065b51bd85607ba7973a57fcd98190b14a5d8fe43810275fbf6442f379c89c165bd129869dd46fefa6e20e3404f7fcd8eb4a645bf40694b5b32bf9916a4beda439ab740f355f8ca873a",
+  "session_key": "SRRwLxp6Y75MASHdISwDcg==:cxRRphtd6pPX28IcK4MpqITxxmgUlHyW6ST68PvGeAvCYWQM93YJ5npI3Tj0emdHT6R4N6xkXa7XD3Gw3W6Phe022VvfkKSI+yYld8sXJkfsvnAXVlJr3KAxUJ6lB+QCScRP53o2GA1KDIlP4R/9oc+h69OaGSsnw6pcKqgEhYcHPzrPiU8IJAxxYS7AIPs0XgGCWxdJYFWjr4clDgA6+5eo/5iO5el96yc0perJV6quNm6W6f7VazjJ5N7RIWCmDa9TOe2+aNy8jL+gR+ObKfcicdJmYox2dydfw47Sx/unl1mUqpCYjJm+jvI+QaZoCxCO8NYqLj3VF2NIqToecg==",
+  "notes": "Details: off-budget out of category lists, day card big number; navbar drag fix; more category words; invite link fixed"
+}
