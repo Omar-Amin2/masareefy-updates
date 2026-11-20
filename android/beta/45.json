@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-43",
-  "seq": 43,
+  "version": "ota-46",
+  "seq": 46,
   "builds": {
     "android": [
       45
     ]
   },
-  "bundle": "ota-43",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-43.zip",
-  "checksum": "2bf4f1e7973441f1e62c736837b89ad75572e304fcfc2a224fc508fd3cb5afbd1200b74090cfdd8836e2b612002709799e33fe8cf9897bc985a9c121f5db43c1f70b08531bbd55529ec765aeb7c545f06fa51dce017d783d8be4199f611dcda9781131761fe77d3577f954b135cf0df3d9d7a3c38306e891e8a0c53fd6012d8566badc9a6cbea6645ed1d8757ff659ce0c04a7c9fc24275f081cf1931e884f9e0df8a9b49ff7f303ff283d5f6fe6f948f67b668b755fc8aace73cd0b805eb6553677bc483de1bf13e5964710e1fa6235a051ade624d730cdf60ea289e3de77a356ce9200713364a31be618151211c05eff0485bb5531cf7cc0990cc6c6079229",
-  "session_key": "BZXlSeBwtDIEGM1sv2SLEA==:of1kaXTuGKry2HtX8OlSYwbPDiusoxctDr0hDuZ21KFIkdW3aG+EiDCbOJAbdHh5TBCbga/uraxvcmfcSck1jOfBmZ0IigNoPRPeSRMk63uKxSqadzcTPGw6EgkU3ITvVyFxmCaNDbSs8FOJNJ0UsasyyRFxfbGaqnQ4xCOy4umja29xR1mbIaLtrlgpwPQc98yvk8su1zNcY9m2VMmO5XploAInuXE7WRB46dUuQ/Ozh4D6igHO21J72rpUyb3/7BdvpAB7skF1g7yI8SroBP9tioV8SuFmlLYjIl0za4JY8tHjfOG8BGgBn5xuC3Y/uyGEultrmc2w/gFDg1fQHg==",
-  "notes": "Details: off-budget out of category lists, day card big number; navbar drag fix; more category words; invite link fixed"
+  "bundle": "ota-46",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-46.zip",
+  "checksum": "33aa917a1a5a9c22b2324239728ade0735f8cae5b20d3e03d100d76cdc9ee8b6f10a0830f9e671e7f98cb2ce58f9f81bf7e9633b98b3f4bce0ddbf3a3c6ad30a6672657b9c320036ec4751837ca5d1f464ad8ec56bfaf39f4579a8eb0985a7ef8c8e0d58441da63412f6257ee97129ab571338a0a07ffdde4a488014775cfa0eb7e4147dead04e83950c22939e534fa79f7080b47f5c77bbc386ac6e938f1879297a81534cdddf5843c54face003062747e3782c23da98e1f3f2542add9c04bedd53f1c49db371231f70967b354d56f83d553799d219e48b5ec74c3995bdf47bc3ae8658a05c0c77630ab3760dea3cb4211ec8a01bc103f022f737163f8acb1c",
+  "session_key": "MhknSaxfIUcqnW7DnKqsnA==:miUj6/iTVkd10u6yi2LNoM4pQed/MZjXtKT1muS3c8YHU+2dekV4TvkQWzUH9yEF/yNv6VDjf5tRamF9sJ8Ls5xxy0NOS4zCzJOFTtdyfjzEkvlx31lrYiatgBHlRxvAK40KkDN0rb6z9Q2KHB2BdXzBTybiQMSfVQTvSIjbEYGuAg+vZIN0B3jiFpc/YfXy3f+ynHgHTCsW9ia9povs5iLuwMCBMrydK6hRVWvq8+RPtVl1sImOxVQSEOoT6LWpXP++XGhYW2OvuPjk6r7dNb/siRYSnwhBLbD7s7e4lgyEtleHEfR0rs9mH3zZTPWgi1H6Q0kgAp3VKj1f1oraJQ==",
+  "notes": "Launch check: reports a blank, half-drawn or stuck screen after opening"
 }

@@ -1,0 +1,13 @@
+{
+  "seq": 46,
+  "builds": {
+    "android": [
+      45
+    ]
+  },
+  "checksum": "33aa917a1a5a9c22b2324239728ade0735f8cae5b20d3e03d100d76cdc9ee8b6f10a0830f9e671e7f98cb2ce58f9f81bf7e9633b98b3f4bce0ddbf3a3c6ad30a6672657b9c320036ec4751837ca5d1f464ad8ec56bfaf39f4579a8eb0985a7ef8c8e0d58441da63412f6257ee97129ab571338a0a07ffdde4a488014775cfa0eb7e4147dead04e83950c22939e534fa79f7080b47f5c77bbc386ac6e938f1879297a81534cdddf5843c54face003062747e3782c23da98e1f3f2542add9c04bedd53f1c49db371231f70967b354d56f83d553799d219e48b5ec74c3995bdf47bc3ae8658a05c0c77630ab3760dea3cb4211ec8a01bc103f022f737163f8acb1c",
+  "session_key": "MhknSaxfIUcqnW7DnKqsnA==:miUj6/iTVkd10u6yi2LNoM4pQed/MZjXtKT1muS3c8YHU+2dekV4TvkQWzUH9yEF/yNv6VDjf5tRamF9sJ8Ls5xxy0NOS4zCzJOFTtdyfjzEkvlx31lrYiatgBHlRxvAK40KkDN0rb6z9Q2KHB2BdXzBTybiQMSfVQTvSIjbEYGuAg+vZIN0B3jiFpc/YfXy3f+ynHgHTCsW9ia9povs5iLuwMCBMrydK6hRVWvq8+RPtVl1sImOxVQSEOoT6LWpXP++XGhYW2OvuPjk6r7dNb/siRYSnwhBLbD7s7e4lgyEtleHEfR0rs9mH3zZTPWgi1H6Q0kgAp3VKj1f1oraJQ==",
+  "notes": "Launch check: reports a blank, half-drawn or stuck screen after opening",
+  "source": "masareefy@01943ac9",
+  "created": "2026-11-20T17:27:58.879Z"
+}
