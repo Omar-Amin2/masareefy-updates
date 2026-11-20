@@ -1,0 +1,13 @@
+{
+  "seq": 51,
+  "builds": {
+    "ios": [
+      65
+    ]
+  },
+  "checksum": "a0568c5e88da8678643d01ea7c41efbaa6aaa1896bb950340aad1b72547000a9690b7441e21f8f36d1961c1a0f619237127ca64b0425aa9920e3338dbfe4e525a2a23d3e4f4d0f33159a4297ed0bc8ed56ed8b8218cb2372e431d5c324f7ca317746b8abdb5d1b7dc41fcde43ee02c3808deb688ad084a8ca2e588bc4770d72243c0670ab49810f536ab4b86e34b6a17402ab40431ccf8536f79cd43fcb18ed37e49a79efef53abb8a38843b67cd42a894bb617b0695a70c143a6f2345b2eaf14c47aaadcfdb711b0544cede9c393fb764245318b1734306d80afec48213c38fa1862706789512fe14f6e49848302acca96a8314a38fc9c36d22738e45d08a58",
+  "session_key": "S9OOGy8oAzEY7XAKApIYOw==:H/D7DL9M1vd8HgAT58XM7tq+b5R0SE69oyrDlw1VX1/JLepuJIV6DZUhnzxctCSQbn/ldFXIjIonOL/UuFoq25hHEE4LsWuFiKxCHwRriVZjFoAKJP1lIF1o94H62uYUzOF8e0WjI1uaBmMxdL1BWjqtbhUuwSXO5sW9IdPKkSTlm+NjrEBgoGWGAiIU22vpXPR9deGdqBYHjRyQ6azci6z24tdJmww/5V4NFckk99JTddRqdSWVpkIS1mw5Zc/5NqNVRjBO/eJD6JUV0J49/qv5QnmcG+Di4DYcei7EEYmnghru9GJ5/M0oIIE2M8i5yulgsAznE/odpqNt8JfLxw==",
+  "notes": "Roast: pick Egyptian or English for the comments; big spends no longer always end in Bold",
+  "source": "masareefy@9670da3e",
+  "created": "2026-11-20T22:55:37.566Z"
+}
