@@ -1,0 +1,13 @@
+{
+  "seq": 43,
+  "builds": {
+    "android": [
+      45
+    ]
+  },
+  "checksum": "2bf4f1e7973441f1e62c736837b89ad75572e304fcfc2a224fc508fd3cb5afbd1200b74090cfdd8836e2b612002709799e33fe8cf9897bc985a9c121f5db43c1f70b08531bbd55529ec765aeb7c545f06fa51dce017d783d8be4199f611dcda9781131761fe77d3577f954b135cf0df3d9d7a3c38306e891e8a0c53fd6012d8566badc9a6cbea6645ed1d8757ff659ce0c04a7c9fc24275f081cf1931e884f9e0df8a9b49ff7f303ff283d5f6fe6f948f67b668b755fc8aace73cd0b805eb6553677bc483de1bf13e5964710e1fa6235a051ade624d730cdf60ea289e3de77a356ce9200713364a31be618151211c05eff0485bb5531cf7cc0990cc6c6079229",
+  "session_key": "BZXlSeBwtDIEGM1sv2SLEA==:of1kaXTuGKry2HtX8OlSYwbPDiusoxctDr0hDuZ21KFIkdW3aG+EiDCbOJAbdHh5TBCbga/uraxvcmfcSck1jOfBmZ0IigNoPRPeSRMk63uKxSqadzcTPGw6EgkU3ITvVyFxmCaNDbSs8FOJNJ0UsasyyRFxfbGaqnQ4xCOy4umja29xR1mbIaLtrlgpwPQc98yvk8su1zNcY9m2VMmO5XploAInuXE7WRB46dUuQ/Ozh4D6igHO21J72rpUyb3/7BdvpAB7skF1g7yI8SroBP9tioV8SuFmlLYjIl0za4JY8tHjfOG8BGgBn5xuC3Y/uyGEultrmc2w/gFDg1fQHg==",
+  "notes": "Details: off-budget out of category lists, day card big number; navbar drag fix; more category words; invite link fixed",
+  "source": "masareefy@a7d195ef",
+  "created": "2026-11-20T01:44:00.563Z"
+}
