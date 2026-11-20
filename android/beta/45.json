@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-48",
-  "seq": 48,
+  "version": "ota-52",
+  "seq": 52,
   "builds": {
     "android": [
       45
     ]
   },
-  "bundle": "ota-48",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-48.zip",
-  "checksum": "48c379dbe2b1128d685ae66b6c7333ed6609a94898fdc1f115ae12e4b456d585fc932f17c7baea12a5c8230ea77d2209fe5f2955662795671021f96f37a7867f54ef31799037ea0d02f9248e1c7cc3db6c74ece44b1b1901da433e8dbe27bcca1b05e16e1cf8da391533cf483e56844a65c0b31ee862b0e5cb4d5cf219ec78a780ddbdb634adfabbbc645b60f07b2b02fd9cb9b82bd2de70cc63724b306674d613e471796f85817e82f81ab11dde294d412e115a33a2bd6033016940010ad5c05d312c51a3e71acf22a4725263a9d01ac5c907e84880a7f12730fd0570c37d2d2ad6d1fc8e880bcdcc76e45c570e10b1242ef5f781faead781d1981654330e7b",
-  "session_key": "RI5wgwEZdD80BYKQImLKlw==:MTOxedFmu2f1Kig1krNCy93I8WtdosAXH0TOTPkU3rKIlegxPdtOnG9oKO7JS+/38b3nph3SFfsQCpJAxpN0ClbJ9yBCdkPOUhGtajVcvLXXkdbIeTamB1RzunYIsqh2NVK7w5ev02X3jeVVEnJcNPN3Nr67auPuLEJeeE9CN+SPh6h7rA3e8JeyqFBojOgeFUE7R/YTljQ07T0qWB7zrzMRMAhR5NowOUUPKMQpfgD+cS0fuSYp+4GeuMQVHecJ0D8o1yIk9bax6h/0bfrauDe9+9i+KpdtAfsEhT5vlNl1CQA7I0gVCIjjhGMAB/NhmFPE1+GkBS3jKea5SNdn9A==",
-  "notes": "Navbar: the glass selector no longer freezes half-way when a tap is lost"
+  "bundle": "ota-52",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-52.zip",
+  "checksum": "3964e6f4f20669dd032d137771127c158b708a8d28d914a1ef52f4ae921a2834e736b1427c4ed72b30fa4156edf483b7a9ba63d5bffc81476ee33d079d7954ece173450792bb20e4a7ab2d06990aabb85e5d44d6fe793d791985545a78d4ba5ca0c48071f869e31f1f6183be74931461776a818b66f4ee0c9334193e53c24115d05caa2ce1c0a9adfa65cb8ad3cd825d92b6149a2009186ae9884f476739f4ac6f5036370f7c2749defa2b5059c00a191fb18164969f378d78fde4540d7be659fea28a60dde4e76f76ac3cd4a4973192a3271fdc11006df2d6f23e1e9b75d53addca91ee44c5bc56b77dcc5fcb0caac44c5d0674858de04565e0e2be1fc54c8f",
+  "session_key": "YMkn5E2mqLfbgeDsYvFPTw==:lo4FnWGPW0lr+ugAmfP2DIFGKMdpYM1DzD4841esaDG/epFsRbFp4iw9tP2U9mpBQFpaKNbPgj/N+Q1UMS7/91XQFQdUaydC5VIq+rJWhJOXjWJGuMp8OBFDM+PB+xRDIm/cQs+GOOYdkZjktN20lnPayQtZDaA7kczxgPYwhYDoiCHtf9LQjMGFF+chPwH+uI8Gk1pk5FiVXAurBH8oq7tMhii1OOOf/Wh7Bk1cNquTUXZH6LdI9LX+ggfpO23J728dCKGNDn2Xlejunf4jAsRT4tszp1rQ58iIY7dwvORWce5XZ99zjjH32fyKJjW3ti2p44Bs+CwN2qwppXXU+A==",
+  "notes": "Roast: pick Egyptian or English for the comments; big spends no longer always end in Bold"
 }
