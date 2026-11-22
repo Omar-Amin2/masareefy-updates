@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-53",
-  "seq": 53,
+  "version": "ota-55",
+  "seq": 55,
   "builds": {
     "ios": [
       65
     ]
   },
-  "bundle": "ota-53",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-53.zip",
-  "checksum": "79c26b28810ad7d69629edcd180e52ac54a432da635ad8d6efe74c600edf65cc03701f4f5d85707bbca7e345a5b462cb97f8fa66c99af8bd2c57e58381932a1c12f513c8fa143b1cbb2ffc4f953e6d57f3d1e323feca9fcb8c6418ec0daba28beda933e3b225b3423f4c4ab241d966a25733a22ff20ec8b887171d825f68410a2f2865bb69dd1f758610f3f5051294dd233cdb9a730c7bc3d2409727b268b6d2ff3d7b31a21d09a872da92ae3811295b28a14346c4d0659c7985433c0218f89a00c1b44a887a98559b0938e2293b5de44e0c24ecf14e3d0e7b011320ff46c26131244a1f81e260ddfe04d4249766b6574228a1bb012cce967104de82bfb7fb6b",
-  "session_key": "kjrkJiHGrrl2Y2S2PjUphw==:GAFQ04A50U6+/wtAKSC5R4kmXpBZQ8DoN8ppS23kTC653GVVctTLuOWm1N3rbB0Zq6aIJAuAyhd8GK6831bIWYuRWyNxtRvtEC09AafnRbPMQKdiuzMCfny0YLQpFrJKf5JwJ+QkUPf/e51r0g8VBzXjiy6YxcfUv98udPf2YJSHWN+ONgd7USWp1ZAQ4ApMrSk0KdfInrShvdK1gRPkic5vqZtH078BCH7smGEEng7eEcmPws4/qZZ3HFRVbNC2AAJdPMXvfAdEmN0NIYFvxZp9yjO0QBPjeYrI49WXM0qKYgsLCbQBELFE+mzPB0Aggb6wirkVBQYqK8cbtZ7EHw==",
-  "notes": "Details: one switch «حسب الفئة · يوم بيوم · الدخل» under the card, picked category fits the ring, arrows line up; Shopping + Clothes categories; roast language choice"
+  "bundle": "ota-55",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-55.zip",
+  "checksum": "7172dd43ff3562d5e5656d74c0c25a7689fa58c3eba0fd8b5a11a8e8f36ee13b1190a4d18fd0c4212ab040f84c345558ada2dd512d4160d8c711005d216a4cccc854b32c470dc968cbb25b01baa9e5e9414f2032ad91bc6cddb841863aaae1c944ed6cbb80999f63fd0978782ac50e32d00bcba245900edea596011f07b324a2613254332c60791da535ead21c49b15687a5e839c0f4a5c2c9afadb6a3104db5e91ddccc08140d29177dc5cb6473f799bbc71de45be55e7d5db11dae5cb253c288f473913b8511e6156a091d000dffafc6406d458ee11b2410e600b0aeb7a32038f99c2fe07a94dc7fb97cad0c13817d76e66b02bf9874532e789571c609f87e",
+  "session_key": "FHUp2wiZxy5DI9c0VZW2Xg==:oGVztbwnZaiXI6CwyJKlKuqSMfNnjiBLdfGX6o6yG8JbewtJOiLYvOYHJMCgRV5xZBQx38FMOTOYIPBg4ENSaIKcxgyywnYRWJfYEYxGlt+FneXKb93fsOOiWKj7lgvCrflALwqwCCzNl+Ng8akh5/a0uqVOuwRdm8mbEA/PxQebRUR3ctypXFbbiPR1EmW8D9XJf1qSNZ0eHvASbXoG+sE6G40sJVHZn/I0dmiirNANd0N8D/ZeyuaAMoP0wGwtdaTVVGAd+NRYIVlv1754bajLd/JrEaWZ5oVI89+SVbFXKH0wV7m/loB20ZcwkCKoJf2TjKgd4P+JWgseER56Pg==",
+  "notes": "Details: dates in the header, a chip per filter, search finds entries; tutorial always starts; transfers filed under تحويل"
 }
