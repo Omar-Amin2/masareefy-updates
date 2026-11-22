@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-56",
-  "seq": 56,
+  "version": "ota-58",
+  "seq": 58,
   "builds": {
     "android": [
       45
     ]
   },
-  "bundle": "ota-56",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-56.zip",
-  "checksum": "04db2a7acaa1f074190f6c7d8956a0c9f4c887e4340280086ceecf8f3f2e01ce08c64872fc762cd1c3147c4b852f3a35983ff60b41a0b14e3287b67b67baf8b89af74fc9ff343f2329f9e848936430ed3f23ae19e22dbcd10aa0d5273c7e686ffdc7502f51cb63c565dc4b399d463dfab4de01c4993cbc17703e4570414d6532ef6090ddd4487da82d4ba116f1f68a35bbf6e2ca1c7581f8dcdb58d30aa469e323fe4580290c98b6cd704bd0c2fe1f4272ae7cfe43b1237f5036577571a7a8c272523110bbe4ae2f97b161fc006077f6492a727511153a367e3f2642fb5d5d4f7771df02b6df01f84edd6323b60e2f39d97307140519f5ca37be1092f3c08c7f",
-  "session_key": "olpJe1sZLR+FiEx3Rx970A==:ciUO+BgMTLMkhqqVUJb/3AZVEZFBSEOKQehn9EvijHkY0fFthZrYo99lp/0PykmkJKpQzFOuTfMwY191Nuerc67pbB92wmGjzfeuV+7YOp38rmn8z8ak648gbc9Eb3aY5PiJ6molYTdVEo/yDNSmK3d4pc+cLdfwzS6a+whclH3+Vxl8fi/XfoiV038bg0cFmxrnM7k6xUugbDLwHxQK/ncbfmehLAw4hZeE4+ak1tUkpJqiWgcWiyy4KJFhe81VjcuVzmOiZgbw7D078IVOUUXgXKZxlaIKEHeSbJgb3BuqVGVJm/yyGD7cLdueGcYD7vrl4YcDaXDFctlzZU3/Ew==",
-  "notes": "Details: dates in the header, a chip per filter, search finds entries; tutorial always starts; transfers filed under تحويل"
+  "bundle": "ota-58",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-58.zip",
+  "checksum": "6fdd2b94f7567a753fd943942c9a0c1839526c5e4183f06aa993090f27a05303b6626bac5ce953ea1331e45531006ff6ad86a0811480c3c060d6cb5a0e1eee2d6e01142d26363bfa874463c70cfc7e94ea3cc2c291f43464ee32aae23db8c3bc6b551da1a4eac800e6f6bddc1de8de7ab37545cb5b4048a0541fc96b859598fdb7b4df340d1a5e1998a251fef66fc0a2c6e9f233b5f8a9458d5e3ea7b0b5dde50e19bae263f92233ead43682a6ca6608af313ad68f0deaa1f66e8bd526c26cda9d7da0e0fd58bce007b041608d4f8f843b952752dceda1ff18d1dda09e3d203070a1f2d3c6da9a10febdcb9b0c7972ac565eb7b686a05a5ac55aa074d638e909",
+  "session_key": "d/PnO1qvZRXd4UXCaieC4A==:UlFsI/dvddbny7X3JS4UiFIj+WkKafTdYlM0Ww3RHfFTJh4Kod0ao4W7RuueYk+E60zb9bKjJvAYfAoHsoTM453bAFRenRctriXoBM1V7dVX27uyMd1Az7uiQQciELC8STx0l90y2A8Xxcica+xMe6QyZPSJ+DEi6CWpTOLMJPxEse4tJjiUDNSWse8Q0CecIj8PM1WIYA8h1EaD3ueoP3E/oYOM81+fjthsFDl/xiEDiPACLcD9PPDY1tsjb06bc2g9J6NaVd66ukOKEdVoDlCKs/Ijoy2RhYh0AJjFOFJUWxUSonn3KxkhDedjJe975xVf8rcTlqZ0eV5QEsex7Q==",
+  "notes": "Launch watch: setup wizards no longer read as blank; a screen nobody can see is reported, with the reason"
 }

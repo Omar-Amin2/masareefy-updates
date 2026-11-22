@@ -1,0 +1,13 @@
+{
+  "seq": 58,
+  "builds": {
+    "android": [
+      45
+    ]
+  },
+  "checksum": "6fdd2b94f7567a753fd943942c9a0c1839526c5e4183f06aa993090f27a05303b6626bac5ce953ea1331e45531006ff6ad86a0811480c3c060d6cb5a0e1eee2d6e01142d26363bfa874463c70cfc7e94ea3cc2c291f43464ee32aae23db8c3bc6b551da1a4eac800e6f6bddc1de8de7ab37545cb5b4048a0541fc96b859598fdb7b4df340d1a5e1998a251fef66fc0a2c6e9f233b5f8a9458d5e3ea7b0b5dde50e19bae263f92233ead43682a6ca6608af313ad68f0deaa1f66e8bd526c26cda9d7da0e0fd58bce007b041608d4f8f843b952752dceda1ff18d1dda09e3d203070a1f2d3c6da9a10febdcb9b0c7972ac565eb7b686a05a5ac55aa074d638e909",
+  "session_key": "d/PnO1qvZRXd4UXCaieC4A==:UlFsI/dvddbny7X3JS4UiFIj+WkKafTdYlM0Ww3RHfFTJh4Kod0ao4W7RuueYk+E60zb9bKjJvAYfAoHsoTM453bAFRenRctriXoBM1V7dVX27uyMd1Az7uiQQciELC8STx0l90y2A8Xxcica+xMe6QyZPSJ+DEi6CWpTOLMJPxEse4tJjiUDNSWse8Q0CecIj8PM1WIYA8h1EaD3ueoP3E/oYOM81+fjthsFDl/xiEDiPACLcD9PPDY1tsjb06bc2g9J6NaVd66ukOKEdVoDlCKs/Ijoy2RhYh0AJjFOFJUWxUSonn3KxkhDedjJe975xVf8rcTlqZ0eV5QEsex7Q==",
+  "notes": "Launch watch: setup wizards no longer read as blank; a screen nobody can see is reported, with the reason",
+  "source": "masareefy@92e6265e",
+  "created": "2026-11-22T21:02:29.617Z"
+}
