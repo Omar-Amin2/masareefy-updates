@@ -1,0 +1,13 @@
+{
+  "seq": 57,
+  "builds": {
+    "ios": [
+      65
+    ]
+  },
+  "checksum": "103f7b294e4678a5a95e21cc48583c548c70528a01a52e6c5f8cad08a64bbd21ab5ca838a8aed689f2ac16f994796c56c04c111e7d096dfc58cc5cd421c6bfb5ede5bb092df98e8473e186e70a3ed02900106544aab980f7caf3d0d6197408e013c21d8065d6a610a79dd3a25d8cd8a8655dc65eec4b200a3add606db1e7fe3c2ff4a179aa433538b1eef36d137c25589a912800e6f456ff8144c5defe30c2c7da169703f4b27d166ce2ef93e67ab6760dbd75938d44fed5fdf24fd8f361f5e555962e6d8ef2b7298b82a4474d89ef254cadcc72cc855a25bde3f913ac2ba6cb37a5c21c7b9b17c121ec22da570e384df5c18844f5654dd36d06967e4e44faa9",
+  "session_key": "sMT+J1+lBJDeg0QYA2FGAQ==:jVt/ylb1A1GNNUFGO2X/O9y8sq0PvE+oBVvE/+Hq/Ab5HI2529gl5FKsuZTxyeTmpqznNJqLczVWOefmS7OiA9Am27l9b+AtI5M6KpQxpheXVc3rVf8XRzHcV2GpV9MLA/c5sAFnGlCFFT8xC7prZv6FZHi+8RBGqJtwEEzEgJGaKIAabWmmb/ae0jHIAkZTUimejd9uII6AQSRE+yKEULJpQE/RDu8p/SH4rXHONPM7aj+CkNk8986+aKg1hrqI6qVWE8/BOgcq/rmPbEuwDhoGNohPWgNrS69nuTJ5ajiW5jQADULv22se1kFsv4NcDIuhk3gtNT3oxIpZY279Pg==",
+  "notes": "Launch watch: setup wizards no longer read as blank; a screen nobody can see is reported, with the reason",
+  "source": "masareefy@5cbe9376",
+  "created": "2026-11-22T20:55:59.048Z"
+}
