@@ -1,0 +1,13 @@
+{
+  "seq": 56,
+  "builds": {
+    "android": [
+      45
+    ]
+  },
+  "checksum": "04db2a7acaa1f074190f6c7d8956a0c9f4c887e4340280086ceecf8f3f2e01ce08c64872fc762cd1c3147c4b852f3a35983ff60b41a0b14e3287b67b67baf8b89af74fc9ff343f2329f9e848936430ed3f23ae19e22dbcd10aa0d5273c7e686ffdc7502f51cb63c565dc4b399d463dfab4de01c4993cbc17703e4570414d6532ef6090ddd4487da82d4ba116f1f68a35bbf6e2ca1c7581f8dcdb58d30aa469e323fe4580290c98b6cd704bd0c2fe1f4272ae7cfe43b1237f5036577571a7a8c272523110bbe4ae2f97b161fc006077f6492a727511153a367e3f2642fb5d5d4f7771df02b6df01f84edd6323b60e2f39d97307140519f5ca37be1092f3c08c7f",
+  "session_key": "olpJe1sZLR+FiEx3Rx970A==:ciUO+BgMTLMkhqqVUJb/3AZVEZFBSEOKQehn9EvijHkY0fFthZrYo99lp/0PykmkJKpQzFOuTfMwY191Nuerc67pbB92wmGjzfeuV+7YOp38rmn8z8ak648gbc9Eb3aY5PiJ6molYTdVEo/yDNSmK3d4pc+cLdfwzS6a+whclH3+Vxl8fi/XfoiV038bg0cFmxrnM7k6xUugbDLwHxQK/ncbfmehLAw4hZeE4+ak1tUkpJqiWgcWiyy4KJFhe81VjcuVzmOiZgbw7D078IVOUUXgXKZxlaIKEHeSbJgb3BuqVGVJm/yyGD7cLdueGcYD7vrl4YcDaXDFctlzZU3/Ew==",
+  "notes": "Details: dates in the header, a chip per filter, search finds entries; tutorial always starts; transfers filed under تحويل",
+  "source": "masareefy@c4a2bb9e",
+  "created": "2026-11-22T19:33:29.106Z"
+}
