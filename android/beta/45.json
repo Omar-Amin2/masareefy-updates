@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-52",
-  "seq": 52,
+  "version": "ota-54",
+  "seq": 54,
   "builds": {
     "android": [
       45
     ]
   },
-  "bundle": "ota-52",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-52.zip",
-  "checksum": "3964e6f4f20669dd032d137771127c158b708a8d28d914a1ef52f4ae921a2834e736b1427c4ed72b30fa4156edf483b7a9ba63d5bffc81476ee33d079d7954ece173450792bb20e4a7ab2d06990aabb85e5d44d6fe793d791985545a78d4ba5ca0c48071f869e31f1f6183be74931461776a818b66f4ee0c9334193e53c24115d05caa2ce1c0a9adfa65cb8ad3cd825d92b6149a2009186ae9884f476739f4ac6f5036370f7c2749defa2b5059c00a191fb18164969f378d78fde4540d7be659fea28a60dde4e76f76ac3cd4a4973192a3271fdc11006df2d6f23e1e9b75d53addca91ee44c5bc56b77dcc5fcb0caac44c5d0674858de04565e0e2be1fc54c8f",
-  "session_key": "YMkn5E2mqLfbgeDsYvFPTw==:lo4FnWGPW0lr+ugAmfP2DIFGKMdpYM1DzD4841esaDG/epFsRbFp4iw9tP2U9mpBQFpaKNbPgj/N+Q1UMS7/91XQFQdUaydC5VIq+rJWhJOXjWJGuMp8OBFDM+PB+xRDIm/cQs+GOOYdkZjktN20lnPayQtZDaA7kczxgPYwhYDoiCHtf9LQjMGFF+chPwH+uI8Gk1pk5FiVXAurBH8oq7tMhii1OOOf/Wh7Bk1cNquTUXZH6LdI9LX+ggfpO23J728dCKGNDn2Xlejunf4jAsRT4tszp1rQ58iIY7dwvORWce5XZ99zjjH32fyKJjW3ti2p44Bs+CwN2qwppXXU+A==",
-  "notes": "Roast: pick Egyptian or English for the comments; big spends no longer always end in Bold"
+  "bundle": "ota-54",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-54.zip",
+  "checksum": "9bb66a097bad99a15318c9498e23764ccdce28f6048940a700514952c532cdc7b4591ed2eaefb14a9aaf15681fdc360dcd699c605abf337a3a8e483d61f8945709dce4b79339effd0a23c7e8d5d7f123fae64a11d634db119b9790bb09242b14fc1f1f0af3ca31be2be0076ff75790e675fadd39c666e5533724cd29e1afbeae616d996ad07a7770aac1c2c694cfe106785171b00d559fd528b49daaedbab66ab6255f05e23c13484c4bbc962dec9dff6c084f957b5c386974798e916cb7a5a36099bb2054d942ff1935ff7aaccafc60af865c383784c72b2a32c4cb7a15127534bfd9456aaa21817c49e645969cfebacef44fe6f2b14b28d74231d1b6dc113c",
+  "session_key": "kyAwmtfNK5+NmyjKEsySZA==:Hm59kznd74TLu51vjn9YWUMY2zR3uDmo1oUDPVvoAI/BZ6MuOBetIHKidsAgT7As24UuCPmmxGLugvN1eqOuDd3zZbucUvVXTqCK/C7CveStdHdD/NBQnWD32tJyw8a9Alq5PnwhhTCwu5rsGF3VpNFgpW03L2DPAo3wokG/hxAUe63J55395iJXNh5FBQLgKgkxXV+WZYtMkjbeuj87h31dR37meC1JNh/ScSAEjnBcEd9ar5BSMKvvxq5A5VC92jSKPMkB7P5ns81WxREQJxImfXhcjsij0wXbxszYQfbP8S0IL0f9QxR/B0oqOnJn+/AXGnJtZREbxnB3d2IIQg==",
+  "notes": "Details: one switch «حسب الفئة · يوم بيوم · الدخل» under the card, picked category fits the ring, arrows line up; Shopping + Clothes categories; roast language choice"
 }
