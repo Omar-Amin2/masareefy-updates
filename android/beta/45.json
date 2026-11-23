@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-58",
-  "seq": 58,
+  "version": "ota-60",
+  "seq": 60,
   "builds": {
     "android": [
       45
     ]
   },
-  "bundle": "ota-58",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-58.zip",
-  "checksum": "6fdd2b94f7567a753fd943942c9a0c1839526c5e4183f06aa993090f27a05303b6626bac5ce953ea1331e45531006ff6ad86a0811480c3c060d6cb5a0e1eee2d6e01142d26363bfa874463c70cfc7e94ea3cc2c291f43464ee32aae23db8c3bc6b551da1a4eac800e6f6bddc1de8de7ab37545cb5b4048a0541fc96b859598fdb7b4df340d1a5e1998a251fef66fc0a2c6e9f233b5f8a9458d5e3ea7b0b5dde50e19bae263f92233ead43682a6ca6608af313ad68f0deaa1f66e8bd526c26cda9d7da0e0fd58bce007b041608d4f8f843b952752dceda1ff18d1dda09e3d203070a1f2d3c6da9a10febdcb9b0c7972ac565eb7b686a05a5ac55aa074d638e909",
-  "session_key": "d/PnO1qvZRXd4UXCaieC4A==:UlFsI/dvddbny7X3JS4UiFIj+WkKafTdYlM0Ww3RHfFTJh4Kod0ao4W7RuueYk+E60zb9bKjJvAYfAoHsoTM453bAFRenRctriXoBM1V7dVX27uyMd1Az7uiQQciELC8STx0l90y2A8Xxcica+xMe6QyZPSJ+DEi6CWpTOLMJPxEse4tJjiUDNSWse8Q0CecIj8PM1WIYA8h1EaD3ueoP3E/oYOM81+fjthsFDl/xiEDiPACLcD9PPDY1tsjb06bc2g9J6NaVd66ukOKEdVoDlCKs/Ijoy2RhYh0AJjFOFJUWxUSonn3KxkhDedjJe975xVf8rcTlqZ0eV5QEsex7Q==",
-  "notes": "Launch watch: setup wizards no longer read as blank; a screen nobody can see is reported, with the reason"
+  "bundle": "ota-60",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-60.zip",
+  "checksum": "76b995be88f2a5f10615c2d2b0924d44027db7562520f4a6264ae561c668c9def9954990d63759fc63cd923f11d3466bda73d7a32cceab60c570d5401efa90711e6d62bcabab41897e115ead7ee7b645e6110b5ecfa4b0af8d1e57621523c5fcb31d06686daaf36eafdd0d1c8e0a20028fb0c58196e7b86437795ed57d2129b7a490462393279a707b1b8e29b47de60c02a9845c54818106ce7ba62498888e194a5d57233633a124b897690815e5340ac24acfdfad908ccab07abbb669b53d1758d6246d3fc366f8f48c6d79ab3df4af922172f958ea61f12ec52a02b5cd7fd90a3f5680f6b4657e087240bd19679c653d789dca4ed0cc5f901e07a0b419a8dd",
+  "session_key": "ItRX4cqpnsoLMhxfp+mUXg==:pEBSBaVXEl1a2sfAxhCKhsOxqK4xkFHwYke0pwKxURjIW6F4xPzHYmiGXnHLuqJTGdrBt5U9XQgbVkS+U5yK1tPDXeZRW8FJCeo0N431+HM+tldvorCQevqOFgyU636ko2bxEuO3cHazA5A4jhig3t7Az0HJjpG1KykBKLzubVunCqP97T3Nhexy0UNV9qS9cLz5Om0/SG2hW83lLjyXbFSSdi5HU4OvtEI5l490MJeCi18p6LnRzRu22LHgeFdJKVP8zj2wI0QAftZBQ2fyNq4z4nCkb0NCgk3Jg5za4VzIq7mJfWTe6cX9Hdi0U63DwSNcbbPAhFjTQQTlXcFuJw==",
+  "notes": "Details: the Money back row lines up with the rows above (info before the arrow)"
 }
