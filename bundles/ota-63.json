@@ -1,0 +1,13 @@
+{
+  "seq": 63,
+  "builds": {
+    "ios": [
+      65
+    ]
+  },
+  "checksum": "9c6a4efacb1a2543832e5e5f2deaf4c03484e4ac4d1251aef322309f9b903c173dbf097b041a00036dd7e4429b31c03be0a91171eadc28bcaabd8be4e0c2f2d758ad4b7a9d1dd06846aa9efdaf38349b2534bd892cfec68f96c9623531fd571132de22bf714b563fb3bbf22709a6a2196b86a617ed172d5c1b31cbb1f0da28a81f4968eb8a67508e8612e13f381299d4ada8f3acf8df4271d94a7c3fe9df330c7340b28f107cdf014b3ef001b8aaead15b33d2b476e971e01089c5291e07372534fbb8e79f9ddf5aa539a8185313d5aac64727324e50848338365b39a48b97bd0c0d728b19561281feca3c9159d33d40e15f3de4e10031fcb64090ec0240dd40",
+  "session_key": "sPlRcnKQGG8YXCW7ptIbDQ==:XY09XgfGCiEojgLW3UV3C3Q/QjGpm063zfwS+oxuW93Tnh1CY2EDiaZvwBTPkaFmBzgK4zJ2qpLPYEPR+Yh4gxfCwBSKU9dJxuMABkmFPjYdat7pln4vR6tDrAeSYgvF40vu5d1YnFCFEGOoq3/cPdlSQe2VZo5pLx4pl1J4feyP3lF4euAF4YD7H9tO8vuLOUy0rf4ZLcOxB+mi4FXA08M37haO1JBBGPyDF5cKITLIQAP3DlV4zBWGbrrhNw2dqvT/1CfDAQf95acTzIU3rMiJ6nAQoakHRfxFb57Nan0XisaBF711t/nLHVMLX6MG8trql1K/jDI14kbWjIo+TA==",
+  "notes": "Analytics: setup walkthroughs report each step, refusal, exit and finish",
+  "source": "masareefy@25f77cfc",
+  "created": "2026-11-24T17:26:40.064Z"
+}
