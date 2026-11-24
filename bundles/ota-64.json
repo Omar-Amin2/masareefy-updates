@@ -1,0 +1,13 @@
+{
+  "seq": 64,
+  "builds": {
+    "android": [
+      45
+    ]
+  },
+  "checksum": "7cbace49c50b0a66a068c4b7a6cefa79b772097ccb0622ccaf75edfb8ae1b727e966bc56ff5b919d27650b4461b5ede3637cadc787f4fc6f5c4961215d49fd32aeb0c920437eed300caa693c4451d291d48717a31f38052c2fe447a7520db62dca301b1b54cb40c9aa33c64bddb54e36d55074bfc03406d1a33f083aeced2035a7db6101ac498627f3106206b1f6f696b93ecee96f7fdf79422c1e9f22c059279156d007cd9c21ffd4a8af4169ee698e69c75f2e4f9d2bbdb6e8fa0ec2827c28eb6ef34c39c0c105cf4db6e2a53b26ed1c01a8626292e76a93f44c6180a8a1dc3db268a94bd24471045cc00dd546ec1bfe212715e9c52b9446faa3dc859f02b2",
+  "session_key": "buTNcsiuv34mcDlMa/DFFQ==:dEqGcnECDcpX/nUxPxDFcMbuj/vN7TWvIHT1GZXlvmFPriJYWN74dKRZPDmWQAyifXAfQ6fHYTMl480XZqShS/veAY8ZWJormBTFDYv68WcDXnInM9WKVReFFN4L1k7hYK2fwjfN9Bev2pryaW9TCsRPwup8EfciidYp/FY/sbV/rYZaxkwIVrVYR+9jjyfP96XGR2ubp3H2G7cC1LrvG8l8vsJ1f4P1zEls9Qgh8ZIc/rG4+aS6srQ0Nj2JllNdMkKEMsZ94tOv5mLht/xv92ohZPykcDC5CLn5oHNbie2gNHI4oNXfGf1fwpIAOsw724SFkz1XDHbGej7HxzRb7Q==",
+  "notes": "Analytics: setup walkthroughs report each step, refusal, exit and finish",
+  "source": "masareefy@32121239",
+  "created": "2026-11-24T17:32:34.706Z"
+}
