@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "version": "ota-62",
-  "seq": 62,
+  "version": "ota-66",
+  "seq": 66,
   "builds": {
     "android": [
       45
     ]
   },
-  "bundle": "ota-60",
-  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-60.zip",
-  "checksum": "76b995be88f2a5f10615c2d2b0924d44027db7562520f4a6264ae561c668c9def9954990d63759fc63cd923f11d3466bda73d7a32cceab60c570d5401efa90711e6d62bcabab41897e115ead7ee7b645e6110b5ecfa4b0af8d1e57621523c5fcb31d06686daaf36eafdd0d1c8e0a20028fb0c58196e7b86437795ed57d2129b7a490462393279a707b1b8e29b47de60c02a9845c54818106ce7ba62498888e194a5d57233633a124b897690815e5340ac24acfdfad908ccab07abbb669b53d1758d6246d3fc366f8f48c6d79ab3df4af922172f958ea61f12ec52a02b5cd7fd90a3f5680f6b4657e087240bd19679c653d789dca4ed0cc5f901e07a0b419a8dd",
-  "session_key": "ItRX4cqpnsoLMhxfp+mUXg==:pEBSBaVXEl1a2sfAxhCKhsOxqK4xkFHwYke0pwKxURjIW6F4xPzHYmiGXnHLuqJTGdrBt5U9XQgbVkS+U5yK1tPDXeZRW8FJCeo0N431+HM+tldvorCQevqOFgyU636ko2bxEuO3cHazA5A4jhig3t7Az0HJjpG1KykBKLzubVunCqP97T3Nhexy0UNV9qS9cLz5Om0/SG2hW83lLjyXbFSSdi5HU4OvtEI5l490MJeCi18p6LnRzRu22LHgeFdJKVP8zj2wI0QAftZBQ2fyNq4z4nCkb0NCgk3Jg5za4VzIq7mJfWTe6cX9Hdi0U63DwSNcbbPAhFjTQQTlXcFuJw==",
-  "notes": "Details: the Money back row lines up with the rows above (info before the arrow)"
+  "bundle": "ota-64",
+  "url": "https://omar-amin2.github.io/masareefy-updates/bundles/ota-64.zip",
+  "checksum": "7cbace49c50b0a66a068c4b7a6cefa79b772097ccb0622ccaf75edfb8ae1b727e966bc56ff5b919d27650b4461b5ede3637cadc787f4fc6f5c4961215d49fd32aeb0c920437eed300caa693c4451d291d48717a31f38052c2fe447a7520db62dca301b1b54cb40c9aa33c64bddb54e36d55074bfc03406d1a33f083aeced2035a7db6101ac498627f3106206b1f6f696b93ecee96f7fdf79422c1e9f22c059279156d007cd9c21ffd4a8af4169ee698e69c75f2e4f9d2bbdb6e8fa0ec2827c28eb6ef34c39c0c105cf4db6e2a53b26ed1c01a8626292e76a93f44c6180a8a1dc3db268a94bd24471045cc00dd546ec1bfe212715e9c52b9446faa3dc859f02b2",
+  "session_key": "buTNcsiuv34mcDlMa/DFFQ==:dEqGcnECDcpX/nUxPxDFcMbuj/vN7TWvIHT1GZXlvmFPriJYWN74dKRZPDmWQAyifXAfQ6fHYTMl480XZqShS/veAY8ZWJormBTFDYv68WcDXnInM9WKVReFFN4L1k7hYK2fwjfN9Bev2pryaW9TCsRPwup8EfciidYp/FY/sbV/rYZaxkwIVrVYR+9jjyfP96XGR2ubp3H2G7cC1LrvG8l8vsJ1f4P1zEls9Qgh8ZIc/rG4+aS6srQ0Nj2JllNdMkKEMsZ94tOv5mLht/xv92ohZPykcDC5CLn5oHNbie2gNHI4oNXfGf1fwpIAOsw724SFkz1XDHbGej7HxzRb7Q==",
+  "notes": "Analytics: setup walkthroughs report each step, refusal, exit and finish"
 }
